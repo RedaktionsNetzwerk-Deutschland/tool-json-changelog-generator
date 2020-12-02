@@ -91,6 +91,7 @@ function getCommitsBetweenTags(start, end) {
             tag.commits = yield getCommitsBetweenTags(lastTag, tag);
             changelog.push(tag);
         }
+        console.log(changelog);
         core.setOutput('jsonchangelog', JSON.stringify(changelog));
     });
 })();

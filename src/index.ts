@@ -2,9 +2,7 @@
 import * as core from '@actions/core';
 import simpleGit from 'simple-git';
 
-const git = simpleGit({
-  baseDir: '/Users/tom/PhpstormProjects/cop-admin-interface/',
-});
+const git = simpleGit();
 
 type UnixIsoDate = {
   iso: string;
@@ -92,5 +90,6 @@ async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
     tag.commits = await getCommitsBetweenTags(lastTag, tag);
     changelog.push(tag);
   }
+  console.log(changelog);
   core.setOutput('jsonchangelog', JSON.stringify(changelog));
 })();
