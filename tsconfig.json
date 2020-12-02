@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "skipLibCheck": false,
+    "target": "es2015",
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "jsx": "react",
+    "rootDir": ".",
+    "downlevelIteration": true,
+    "strict": true,
+    "removeComments": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": false,
+    "esModuleInterop": false,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "composite": true,
+    "declaration": true,
+    "declarationMap": false,
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+  ],
+  "include": [
+    "src"
+  ]
+}

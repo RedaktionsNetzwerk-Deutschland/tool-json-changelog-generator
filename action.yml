@@ -1,0 +1,10 @@
+name: 'JSON Changelog Creator'
+author: 'Tom Sacher'
+description: 'Creates a JSON Changelog'
+runs:
+    using: 'node12'
+    main: 'dist/index.js'
+
+outputs:
+    jsonchangelog:
+        description: "The JSON Changelog"

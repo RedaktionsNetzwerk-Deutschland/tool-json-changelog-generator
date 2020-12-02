@@ -1,0 +1,4888 @@
+[
+  {
+    "name": "v0.1.0",
+    "created": {
+      "iso": "2020-09-17 15:28:33 +0200",
+      "unix": 1600349313
+    },
+    "commits": [
+      {
+        "message": "Initialize project using Create React App",
+        "hash": "12400e8f631c36e350cdad577c4d1c74121a3703",
+        "created": {
+          "iso": "2020-07-03T17:17:13+02:00",
+          "unix": 1593789433
+        }
+      },
+      {
+        "message": "Initialize project using Create React App",
+        "hash": "4500c6621518439876d45df8c5be79f8f255a7fe",
+        "created": {
+          "iso": "2020-07-03T17:17:13+02:00",
+          "unix": 1593789433
+        }
+      },
+      {
+        "message": "chore: idea folder",
+        "hash": "fc030621706cf0bc5887cdf3f9e02b580b1638fd",
+        "created": {
+          "iso": "2020-07-06T09:09:52+02:00",
+          "unix": 1594019392
+        }
+      },
+      {
+        "message": "chore: idea folder",
+        "hash": "1b777831d52a9cdac8599b22d2a85ad4c3ed1877",
+        "created": {
+          "iso": "2020-07-06T09:09:52+02:00",
+          "unix": 1594019392
+        }
+      },
+      {
+        "message": "chore: stories",
+        "hash": "77179059a6ab23c72c8a21d1fef88b18ea44588e",
+        "created": {
+          "iso": "2020-07-06T11:29:37+02:00",
+          "unix": 1594027777
+        }
+      },
+      {
+        "message": "chore: stories",
+        "hash": "1d2b8cb7ee51fb3edfcf26fddd5e9602371c751a",
+        "created": {
+          "iso": "2020-07-06T11:29:37+02:00",
+          "unix": 1594027777
+        }
+      },
+      {
+        "message": "feat: storybook works",
+        "hash": "4cffebfb984c50480a657dda21e385e66be25418",
+        "created": {
+          "iso": "2020-07-06T17:11:34+02:00",
+          "unix": 1594048294
+        }
+      },
+      {
+        "message": "feat: storybook works",
+        "hash": "84667744a137588b2d094ec0ae2ea64e60c2d8d0",
+        "created": {
+          "iso": "2020-07-06T17:11:34+02:00",
+          "unix": 1594048294
+        }
+      },
+      {
+        "message": "feat: storybooks, ci, docker",
+        "hash": "05cbb65ec600c4376dc01ff9468b245fa0b82441",
+        "created": {
+          "iso": "2020-07-06T17:27:20+02:00",
+          "unix": 1594049240
+        }
+      },
+      {
+        "message": "feat: storybooks, ci, docker",
+        "hash": "393be1080c6ab35723bdc253cda1097f1c2393df",
+        "created": {
+          "iso": "2020-07-06T17:27:20+02:00",
+          "unix": 1594049240
+        }
+      },
+      {
+        "message": "Feature/build deploy",
+        "hash": "22c96f849a42eb144f9f54c344cd7697b2f24d08",
+        "created": {
+          "iso": "2020-07-13T12:49:32+00:00",
+          "unix": 1594644572
+        }
+      },
+      {
+        "message": "Feature/build deploy",
+        "hash": "f69f1195ebfb03a21d7f2f5bba70516f59d4ae10",
+        "created": {
+          "iso": "2020-07-13T12:49:32+00:00",
+          "unix": 1594644572
+        }
+      },
+      {
+        "message": "Merged in feature/build_deploy (pull request #2)",
+        "hash": "e61c952eb5bd3a5283538d05198a666e957b9e27",
+        "created": {
+          "iso": "2020-07-13T12:51:25+00:00",
+          "unix": 1594644685
+        }
+      },
+      {
+        "message": "Merged in feature/build_deploy (pull request #2)",
+        "hash": "5b809744b91b075edd6ef4b82693903659aabe44",
+        "created": {
+          "iso": "2020-07-13T12:51:25+00:00",
+          "unix": 1594644685
+        }
+      },
+      {
+        "message": "feat: need artifacts",
+        "hash": "3c616ccb69a3947cc022f78c29f9f4b6ce6f3ad2",
+        "created": {
+          "iso": "2020-07-13T12:57:00+00:00",
+          "unix": 1594645020
+        }
+      },
+      {
+        "message": "feat: need artifacts",
+        "hash": "af7d91f8da6e9f3cf53360ec0ab61002c006aef2",
+        "created": {
+          "iso": "2020-07-13T12:57:00+00:00",
+          "unix": 1594645020
+        }
+      },
+      {
+        "message": "fix: deployment",
+        "hash": "a36bb42ba511e4cb0198208a0e6b7960bb06bb0d",
+        "created": {
+          "iso": "2020-07-13T14:18:09+00:00",
+          "unix": 1594649889
+        }
+      },
+      {
+        "message": "fix: deployment",
+        "hash": "21fde5327ac7f4df33a642bde8b938b86856e0c6",
+        "created": {
+          "iso": "2020-07-13T14:18:09+00:00",
+          "unix": 1594649889
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #5)",
+        "hash": "f6416f79971516742f782278a87f32d3b7b49552",
+        "created": {
+          "iso": "2020-07-13T14:43:57+00:00",
+          "unix": 1594651437
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #5)",
+        "hash": "2ca73335d785598a1ca7d28af3b58e7eaa0e6d25",
+        "created": {
+          "iso": "2020-07-13T14:43:57+00:00",
+          "unix": 1594651437
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #6)",
+        "hash": "ea85248396d3a39f26daabf495f6dfb77d1f6052",
+        "created": {
+          "iso": "2020-07-13T15:00:49+00:00",
+          "unix": 1594652449
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #6)",
+        "hash": "702b65b88211b3fd34dfe38776d90654202a350e",
+        "created": {
+          "iso": "2020-07-13T15:00:49+00:00",
+          "unix": 1594652449
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #7)",
+        "hash": "f65ebbbf4a7c9368fe6d99b11503f3f8c71f934b",
+        "created": {
+          "iso": "2020-07-13T15:14:06+00:00",
+          "unix": 1594653246
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #7)",
+        "hash": "c057aeb4bab4717fa22208179ba12934d1ee4456",
+        "created": {
+          "iso": "2020-07-13T15:14:06+00:00",
+          "unix": 1594653246
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #8)",
+        "hash": "a3e3f3017b0c5b9a7772d820a06847fdc7010d34",
+        "created": {
+          "iso": "2020-07-13T15:22:02+00:00",
+          "unix": 1594653722
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #8)",
+        "hash": "07e7e3693b743d7a123f819cf922f345afab3930",
+        "created": {
+          "iso": "2020-07-13T15:22:02+00:00",
+          "unix": 1594653722
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #9)",
+        "hash": "7328eec5e4a7a61ba9d3b8dee933fcbc870e25d8",
+        "created": {
+          "iso": "2020-07-14T06:56:55+00:00",
+          "unix": 1594709815
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #9)",
+        "hash": "fb15bc280302cc429896fac16a2be4ae35a2004f",
+        "created": {
+          "iso": "2020-07-14T06:56:55+00:00",
+          "unix": 1594709815
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #10)",
+        "hash": "b355f633fa4fc06aaa87a47aae7874f4504cb77b",
+        "created": {
+          "iso": "2020-07-14T07:02:19+00:00",
+          "unix": 1594710139
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #10)",
+        "hash": "f9a36f448f06193c1ff71afc81c4cda9b36e4573",
+        "created": {
+          "iso": "2020-07-14T07:02:19+00:00",
+          "unix": 1594710139
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #11)",
+        "hash": "353a3e7b5859958fd8954ab94d58f44da2f7bc8c",
+        "created": {
+          "iso": "2020-07-14T07:04:53+00:00",
+          "unix": 1594710293
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #11)",
+        "hash": "c0ff2efabca25986424e00583ce1b1421e586e0f",
+        "created": {
+          "iso": "2020-07-14T07:04:53+00:00",
+          "unix": 1594710293
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #12)",
+        "hash": "7b50fa1f79daf14b3b3a3d70f827381741e2a403",
+        "created": {
+          "iso": "2020-07-14T07:49:35+00:00",
+          "unix": 1594712975
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #12)",
+        "hash": "6b05f432f058a5f988e4de876c34c4e348ea4aca",
+        "created": {
+          "iso": "2020-07-14T07:49:35+00:00",
+          "unix": 1594712975
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #13)",
+        "hash": "4dcd7dbd59c941b63335b2f93ec9cfb6959c7ba4",
+        "created": {
+          "iso": "2020-07-14T12:08:30+00:00",
+          "unix": 1594728510
+        }
+      },
+      {
+        "message": "Merged in chore/storybook (pull request #13)",
+        "hash": "b869d1f302eb2da240c15c5e99d86db52fbae457",
+        "created": {
+          "iso": "2020-07-14T12:08:30+00:00",
+          "unix": 1594728510
+        }
+      },
+      {
+        "message": "Main Project Setup including Tests etc.. Also everything needed for Skinny Pete. After this Commit we'll begin using ONLY conventional commits and will merge accordingly",
+        "hash": "9999a7209bf71f7785d1ab2fafdb3abe1c976587",
+        "created": {
+          "iso": "2020-07-16T18:25:07+00:00",
+          "unix": 1594923907
+        }
+      },
+      {
+        "message": "Main Project Setup including Tests etc.. Also everything needed for Skinny Pete. After this Commit we'll begin using ONLY conventional commits and will merge accordingly",
+        "hash": "dc065ad176e8ade08e315f774aba12c6b4e1b5cb",
+        "created": {
+          "iso": "2020-07-16T18:25:07+00:00",
+          "unix": 1594923907
+        }
+      },
+      {
+        "message": "hotfix: Fixing Pipeline by reverting switch to alpine image as it has no SCP installed",
+        "hash": "8c78a9520c0ca28d5339556714652b5923648ba1",
+        "created": {
+          "iso": "2020-07-16T20:46:49+02:00",
+          "unix": 1594925209
+        }
+      },
+      {
+        "message": "hotfix: Fixing Pipeline by reverting switch to alpine image as it has no SCP installed",
+        "hash": "93fdc416d2d6f1a8815a6a6311a6499500b03eeb",
+        "created": {
+          "iso": "2020-07-16T20:46:49+02:00",
+          "unix": 1594925209
+        }
+      },
+      {
+        "message": "chore: Update Dependencies to newest version and fix missing peer dependencies",
+        "hash": "1da16b03d5c719753ba943fb8da6e19ed30c81df",
+        "created": {
+          "iso": "2020-07-17T08:13:29+00:00",
+          "unix": 1594973609
+        }
+      },
+      {
+        "message": "chore: Update Dependencies to newest version and fix missing peer dependencies",
+        "hash": "185cff61d1894fbb6e86f320eaeb0ea24b56f5e8",
+        "created": {
+          "iso": "2020-07-17T08:13:29+00:00",
+          "unix": 1594973609
+        }
+      },
+      {
+        "message": "test: Improve Tests for Login and Password Reset Page",
+        "hash": "9f4e747e9bb2bef975dafc3feefda9517bdbf4fc",
+        "created": {
+          "iso": "2020-07-17T08:29:03+00:00",
+          "unix": 1594974543
+        }
+      },
+      {
+        "message": "test: Improve Tests for Login and Password Reset Page",
+        "hash": "407404121df026d04608cfa233e4d6cf936d314a",
+        "created": {
+          "iso": "2020-07-17T08:29:03+00:00",
+          "unix": 1594974543
+        }
+      },
+      {
+        "message": "hotfix: remove accidentally checked in ftestreports",
+        "hash": "fc303a38d81e5ea9ad2979ce5612b6cc0e302b1e",
+        "created": {
+          "iso": "2020-07-17T11:17:43+02:00",
+          "unix": 1594977463
+        }
+      },
+      {
+        "message": "hotfix: remove accidentally checked in ftestreports",
+        "hash": "de08145e5745277de3e740e9f50309f4e4ce82e3",
+        "created": {
+          "iso": "2020-07-17T11:17:43+02:00",
+          "unix": 1594977463
+        }
+      },
+      {
+        "message": "Merge branch 'master' of bitbucket.org:madsack-rnd/admin-interface",
+        "hash": "e378064ac7e91ce65fc5f0aa1411f4319ab6690f",
+        "created": {
+          "iso": "2020-07-17T11:18:33+02:00",
+          "unix": 1594977513
+        }
+      },
+      {
+        "message": "Merge branch 'master' of bitbucket.org:madsack-rnd/admin-interface",
+        "hash": "210e4686f4aab28e9e660c1739fbacc7c248dc81",
+        "created": {
+          "iso": "2020-07-17T11:18:33+02:00",
+          "unix": 1594977513
+        }
+      },
+      {
+        "message": "ci: Add manual trigger for Storybook container, it also builds after master is released so it doesn't break the complete pipeline",
+        "hash": "6657873329815f76337af4ec9685a4463f1ef055",
+        "created": {
+          "iso": "2020-07-17T10:30:27+00:00",
+          "unix": 1594981827
+        }
+      },
+      {
+        "message": "ci: Add manual trigger for Storybook container, it also builds after master is released so it doesn't break the complete pipeline",
+        "hash": "69b7678a8393e513a1c929e2bac05c931537e87b",
+        "created": {
+          "iso": "2020-07-17T10:30:27+00:00",
+          "unix": 1594981827
+        }
+      },
+      {
+        "message": "fix: quit driver",
+        "hash": "c99d483eedec68806402ff5ff977bec5f70206c5",
+        "created": {
+          "iso": "2020-07-17T12:04:07+00:00",
+          "unix": 1594987447
+        }
+      },
+      {
+        "message": "fix: quit driver",
+        "hash": "8d8b429da3acad5f648026b794dd209b3fe4d9d2",
+        "created": {
+          "iso": "2020-07-17T12:04:07+00:00",
+          "unix": 1594987447
+        }
+      },
+      {
+        "message": "chore: Cleanup and removal of several small bugs in CI and gitignore",
+        "hash": "303f677274deb84ed6d167e2fc61ffba850f1ffc",
+        "created": {
+          "iso": "2020-07-17T12:08:26+00:00",
+          "unix": 1594987706
+        }
+      },
+      {
+        "message": "chore: Cleanup and removal of several small bugs in CI and gitignore",
+        "hash": "b390609c8c7ea7db3de06a45e08f21b5b1706aab",
+        "created": {
+          "iso": "2020-07-17T12:08:26+00:00",
+          "unix": 1594987706
+        }
+      },
+      {
+        "message": "ci: Fix Pipelines",
+        "hash": "54f5bca5ea792a79283342609cffcfa4bfc421bd",
+        "created": {
+          "iso": "2020-07-17T12:27:06+00:00",
+          "unix": 1594988826
+        }
+      },
+      {
+        "message": "ci: Fix Pipelines",
+        "hash": "546c0b1f96e410527c94f7cf6ee91d5844e5da4a",
+        "created": {
+          "iso": "2020-07-17T12:27:06+00:00",
+          "unix": 1594988826
+        }
+      },
+      {
+        "message": "chore: release 0.1.3",
+        "hash": "564ba8ee1b1869625215358a44c809b612420044",
+        "created": {
+          "iso": "2020-07-17T21:15:10+02:00",
+          "unix": 1595013310
+        }
+      },
+      {
+        "message": "chore: release 0.1.3",
+        "hash": "0afd01d2c5726459d6a9545494085078c643bc67",
+        "created": {
+          "iso": "2020-07-17T21:15:10+02:00",
+          "unix": 1595013310
+        }
+      },
+      {
+        "message": "refactor: Implement RND Component Library",
+        "hash": "b807a70b8ce031eab0277e0a0b0a52f452d9bbf1",
+        "created": {
+          "iso": "2020-07-20T08:38:54+00:00",
+          "unix": 1595234334
+        }
+      },
+      {
+        "message": "refactor: Implement RND Component Library",
+        "hash": "025d07d2033d78f693c0273d1b59f194b99c2bea",
+        "created": {
+          "iso": "2020-07-20T08:38:54+00:00",
+          "unix": 1595234334
+        }
+      },
+      {
+        "message": "initial commit",
+        "hash": "86fc1878f47924103d34e9f275c6fbf3a5b12443",
+        "created": {
+          "iso": "2020-07-20T12:22:51+02:00",
+          "unix": 1595240571
+        }
+      },
+      {
+        "message": "initial commit",
+        "hash": "70804520e7b526b1b1f5dc687c23fc16b900aa31",
+        "created": {
+          "iso": "2020-07-20T12:22:51+02:00",
+          "unix": 1595240571
+        }
+      },
+      {
+        "message": "begin ci testing",
+        "hash": "0ad0ba5d862f329c60f904c51522ae72b1f163ff",
+        "created": {
+          "iso": "2020-07-21T13:46:33+02:00",
+          "unix": 1595331993
+        }
+      },
+      {
+        "message": "begin ci testing",
+        "hash": "cab7e5da5dc9003f74a80a6d60ebdc116b9fe970",
+        "created": {
+          "iso": "2020-07-21T13:46:33+02:00",
+          "unix": 1595331993
+        }
+      },
+      {
+        "message": "ci",
+        "hash": "a8b29d8152aa20d60c0b5d750836ae4e0200c061",
+        "created": {
+          "iso": "2020-07-21T14:47:44+02:00",
+          "unix": 1595335664
+        }
+      },
+      {
+        "message": "ci",
+        "hash": "34c776049e4ea95676df2a0313f3a0ba3e2275cc",
+        "created": {
+          "iso": "2020-07-21T14:47:44+02:00",
+          "unix": 1595335664
+        }
+      },
+      {
+        "message": "ci",
+        "hash": "b25f404028ba187fc201c4ca6989be7e1f12345d",
+        "created": {
+          "iso": "2020-07-21T15:29:28+02:00",
+          "unix": 1595338168
+        }
+      },
+      {
+        "message": "ci",
+        "hash": "b60fc68bcd19b4e3805824fb1b4355dac38d62ef",
+        "created": {
+          "iso": "2020-07-21T15:29:28+02:00",
+          "unix": 1595338168
+        }
+      },
+      {
+        "message": "feat: Navigation Route and Dropdown",
+        "hash": "9804f853a018f1c7c5abac48a47954ae49101fd4",
+        "created": {
+          "iso": "2020-07-22T12:29:16+02:00",
+          "unix": 1595413756
+        }
+      },
+      {
+        "message": "feat: Navigation Route and Dropdown",
+        "hash": "31ed3b3c85b5bd55e16f35920c0573bee9d7025a",
+        "created": {
+          "iso": "2020-07-22T12:29:16+02:00",
+          "unix": 1595413756
+        }
+      },
+      {
+        "message": "fix: RND Icon Library Uppercased Icon",
+        "hash": "b43286ddcace92449e57d5773205ef42059eec94",
+        "created": {
+          "iso": "2020-07-22T12:47:01+02:00",
+          "unix": 1595414821
+        }
+      },
+      {
+        "message": "fix: RND Icon Library Uppercased Icon",
+        "hash": "3239342a9a7c5194668e7e469e129576f8052a25",
+        "created": {
+          "iso": "2020-07-22T12:47:01+02:00",
+          "unix": 1595414821
+        }
+      },
+      {
+        "message": "Tab included",
+        "hash": "6f88d866f14a563d78b0f3534de4a30e30f1b4b5",
+        "created": {
+          "iso": "2020-07-22T14:04:24+02:00",
+          "unix": 1595419464
+        }
+      },
+      {
+        "message": "Tab included",
+        "hash": "5d49f7c36fd8a27e5b9c360a2bfa8a82ea140773",
+        "created": {
+          "iso": "2020-07-22T14:04:24+02:00",
+          "unix": 1595419464
+        }
+      },
+      {
+        "message": "Fix: Navigation Bar SCSS",
+        "hash": "1576ce04b4f0ab600d35dce6d6aa18bd89e65e9c",
+        "created": {
+          "iso": "2020-07-22T15:38:55+02:00",
+          "unix": 1595425135
+        }
+      },
+      {
+        "message": "Fix: Navigation Bar SCSS",
+        "hash": "f6687aa8160221f6bc6b8ef5d9f66403d4976ae0",
+        "created": {
+          "iso": "2020-07-22T15:38:55+02:00",
+          "unix": 1595425135
+        }
+      },
+      {
+        "message": "test: improved tests",
+        "hash": "31f5182209594696d73221449c4101f1aed8aca8",
+        "created": {
+          "iso": "2020-07-22T18:28:11+02:00",
+          "unix": 1595435291
+        }
+      },
+      {
+        "message": "test: improved tests",
+        "hash": "ee5bd9f117aa9f877b47bd755efc8b4faf402cd2",
+        "created": {
+          "iso": "2020-07-22T18:28:11+02:00",
+          "unix": 1595435291
+        }
+      },
+      {
+        "message": "FadeIn Types",
+        "hash": "f7b1b11102b07ffe3b960e600d44b4877b288156",
+        "created": {
+          "iso": "2020-07-23T09:14:48+02:00",
+          "unix": 1595488488
+        }
+      },
+      {
+        "message": "FadeIn Types",
+        "hash": "034e256dfc6f86f448e80b894df979ab3712637f",
+        "created": {
+          "iso": "2020-07-23T09:14:48+02:00",
+          "unix": 1595488488
+        }
+      },
+      {
+        "message": "* ci: Enable fully automatic versioning and deployment",
+        "hash": "59ed72aabeb4cadaef1017118cb5fc2eb302ff28",
+        "created": {
+          "iso": "2020-07-27T08:44:13+00:00",
+          "unix": 1595839453
+        }
+      },
+      {
+        "message": "* ci: Enable fully automatic versioning and deployment",
+        "hash": "e0c24f68debe0c49bcb7a3f1f9c6054d1e3a4e29",
+        "created": {
+          "iso": "2020-07-27T08:44:13+00:00",
+          "unix": 1595839453
+        }
+      },
+      {
+        "message": "Merged in tab/fixes (pull request #2)",
+        "hash": "cd96a49f546e00ecdafe30dccdd52798b97eca70",
+        "created": {
+          "iso": "2020-07-27T08:54:09+00:00",
+          "unix": 1595840049
+        }
+      },
+      {
+        "message": "Merged in tab/fixes (pull request #2)",
+        "hash": "3f442ee8027c54ad3c0e8381281a95601291a2f6",
+        "created": {
+          "iso": "2020-07-27T08:54:09+00:00",
+          "unix": 1595840049
+        }
+      },
+      {
+        "message": "ci: Add basic bitbucket-pipelines configuration",
+        "hash": "a0cdd7cefaa6998cadb3d2c45f849f4abaec1f06",
+        "created": {
+          "iso": "2020-07-27T10:55:06+00:00",
+          "unix": 1595847306
+        }
+      },
+      {
+        "message": "ci: Add basic bitbucket-pipelines configuration",
+        "hash": "baccfa35bb54625228f9f34adb4ec7a25b7cf9d0",
+        "created": {
+          "iso": "2020-07-27T10:55:06+00:00",
+          "unix": 1595847306
+        }
+      },
+      {
+        "message": "hotfix(ci): fix conditional configuration download via git",
+        "hash": "75ca7449cdc2456f0367b4a16ab72533ce155e37",
+        "created": {
+          "iso": "2020-07-27T13:02:00+02:00",
+          "unix": 1595847720
+        }
+      },
+      {
+        "message": "hotfix(ci): fix conditional configuration download via git",
+        "hash": "de16d77c5a3d349dbc0cbf071a8786f4f65180a7",
+        "created": {
+          "iso": "2020-07-27T13:02:00+02:00",
+          "unix": 1595847720
+        }
+      },
+      {
+        "message": "hotfix(ci): Fix wrong access_token export",
+        "hash": "d5b9a213a44bc0fd7ef0bf5be39383959cebc15a",
+        "created": {
+          "iso": "2020-07-27T13:03:53+02:00",
+          "unix": 1595847833
+        }
+      },
+      {
+        "message": "hotfix(ci): Fix wrong access_token export",
+        "hash": "5d8fe8bc8aca739fd2d95dafb38f24dfe5a67388",
+        "created": {
+          "iso": "2020-07-27T13:03:53+02:00",
+          "unix": 1595847833
+        }
+      },
+      {
+        "message": "ci: Add support for continuos integration and automatic deployment",
+        "hash": "ab317fd08d4a62161c83c7886feb59393fba5f53",
+        "created": {
+          "iso": "2020-07-28T11:55:01+00:00",
+          "unix": 1595937301
+        }
+      },
+      {
+        "message": "ci: Add support for continuos integration and automatic deployment",
+        "hash": "72f28266252b191b852362f9c0ff04fc629864f6",
+        "created": {
+          "iso": "2020-07-28T11:55:01+00:00",
+          "unix": 1595937301
+        }
+      },
+      {
+        "message": "ci",
+        "hash": "d52d63c9e96217dcefeff08eb852d262b701480f",
+        "created": {
+          "iso": "2020-07-28T14:16:09+02:00",
+          "unix": 1595938569
+        }
+      },
+      {
+        "message": "ci",
+        "hash": "34d9f0147a6d44c687836eb01b107a064a83751a",
+        "created": {
+          "iso": "2020-07-28T14:16:09+02:00",
+          "unix": 1595938569
+        }
+      },
+      {
+        "message": "fix: Resolve a lot of merge conflicts and restore previosly deleted files",
+        "hash": "a34c2885feded7620fb4e691c5845a050242d23c",
+        "created": {
+          "iso": "2020-07-28T14:18:13+02:00",
+          "unix": 1595938693
+        }
+      },
+      {
+        "message": "fix: Resolve a lot of merge conflicts and restore previosly deleted files",
+        "hash": "5b3349588853d119d150e190ddbd7ce5aa40b280",
+        "created": {
+          "iso": "2020-07-28T14:18:13+02:00",
+          "unix": 1595938693
+        }
+      },
+      {
+        "message": "ci: Fix Deployment Path",
+        "hash": "fb8f765be0c9cea4a9a719318bac9d8b9bde8676",
+        "created": {
+          "iso": "2020-07-28T14:22:20+02:00",
+          "unix": 1595938940
+        }
+      },
+      {
+        "message": "ci: Fix Deployment Path",
+        "hash": "8560f159a99542682fa501eefb7f1226d201c3de",
+        "created": {
+          "iso": "2020-07-28T14:22:20+02:00",
+          "unix": 1595938940
+        }
+      },
+      {
+        "message": "fix: hover Icon",
+        "hash": "31ece3051017aa9ac4e850522080a0a32fba1716",
+        "created": {
+          "iso": "2020-07-29T10:21:35+00:00",
+          "unix": 1596018095
+        }
+      },
+      {
+        "message": "fix: hover Icon",
+        "hash": "8e42bb8fdd256646b5b1b0f9958c88333973d2b0",
+        "created": {
+          "iso": "2020-07-29T10:21:35+00:00",
+          "unix": 1596018095
+        }
+      },
+      {
+        "message": "feat: Add Avatar, Profile Image Changer and Icon Buttons",
+        "hash": "a7f781c54abbadb2a39dc2daed8d42906b702149",
+        "created": {
+          "iso": "2020-07-30T06:17:03+00:00",
+          "unix": 1596089823
+        }
+      },
+      {
+        "message": "feat: Add Avatar, Profile Image Changer and Icon Buttons",
+        "hash": "9bde28d1ae2a9eb5e44ff4723cb694dda74f5251",
+        "created": {
+          "iso": "2020-07-30T06:17:03+00:00",
+          "unix": 1596089823
+        }
+      },
+      {
+        "message": "ci: Create Docker Tag from Commit Tag",
+        "hash": "576f1d34328e5b7223ca0976acb52048de94f4f8",
+        "created": {
+          "iso": "2020-07-31T08:17:29+00:00",
+          "unix": 1596183449
+        }
+      },
+      {
+        "message": "ci: Create Docker Tag from Commit Tag",
+        "hash": "dc4dafb85ea37aacdb1d16e39ed6ead390c529fe",
+        "created": {
+          "iso": "2020-07-31T08:17:29+00:00",
+          "unix": 1596183449
+        }
+      },
+      {
+        "message": "ci: fix Deploy and Push for Storybook",
+        "hash": "444dc091285d6c3d7afd3ca58cb472cc74c43079",
+        "created": {
+          "iso": "2020-07-31T08:27:22+00:00",
+          "unix": 1596184042
+        }
+      },
+      {
+        "message": "ci: fix Deploy and Push for Storybook",
+        "hash": "c928a0a566d80bd5bfeba286f5950f27197628cf",
+        "created": {
+          "iso": "2020-07-31T08:27:22+00:00",
+          "unix": 1596184042
+        }
+      },
+      {
+        "message": "refactor!: Refactor Styles. You now only need to import styles.css",
+        "hash": "d779f8532cb0bb60182ceeb723e5fd74354cc379",
+        "created": {
+          "iso": "2020-07-31T11:05:57+00:00",
+          "unix": 1596193557
+        }
+      },
+      {
+        "message": "refactor!: Refactor Styles. You now only need to import styles.css",
+        "hash": "1468f3fd8c32a966a27203ccc0416ebf0e9d1415",
+        "created": {
+          "iso": "2020-07-31T11:05:57+00:00",
+          "unix": 1596193557
+        }
+      },
+      {
+        "message": "chore: Removed unnecessary dependencies, resorted dependencies, upgraded",
+        "hash": "7e80650dc78244973c8378718bbdbcedc1f1af24",
+        "created": {
+          "iso": "2020-07-31T12:40:20+00:00",
+          "unix": 1596199220
+        }
+      },
+      {
+        "message": "chore: Removed unnecessary dependencies, resorted dependencies, upgraded",
+        "hash": "5baf3363e2984085d982d7e117a027c877ad2cd9",
+        "created": {
+          "iso": "2020-07-31T12:40:20+00:00",
+          "unix": 1596199220
+        }
+      },
+      {
+        "message": "fix: Update RND Icon Lib to latest version",
+        "hash": "1c7d02302df864e81cd63e609374fc8e92fbb05c",
+        "created": {
+          "iso": "2020-07-31T13:35:47+00:00",
+          "unix": 1596202547
+        }
+      },
+      {
+        "message": "fix: Update RND Icon Lib to latest version",
+        "hash": "99b8b2cb690f9f249ced589f03d42e9a4af4ea55",
+        "created": {
+          "iso": "2020-07-31T13:35:47+00:00",
+          "unix": 1596202547
+        }
+      },
+      {
+        "message": "feat: Add Support for Microfrontends and BitBucket Pipelines",
+        "hash": "47ca4766552c8d7b4fa789fafb596325b3674453",
+        "created": {
+          "iso": "2020-07-31T14:46:27+00:00",
+          "unix": 1596206787
+        }
+      },
+      {
+        "message": "feat: Add Support for Microfrontends and BitBucket Pipelines",
+        "hash": "04e21231f2a08f213821227053e218ebe13c1afd",
+        "created": {
+          "iso": "2020-07-31T14:46:27+00:00",
+          "unix": 1596206787
+        }
+      },
+      {
+        "message": "fix: Fix Styles with new RND Components Library",
+        "hash": "9bebfe37f8c9ada8ed22d1472efd461709864bf3",
+        "created": {
+          "iso": "2020-07-31T15:00:31+00:00",
+          "unix": 1596207631
+        }
+      },
+      {
+        "message": "fix: Fix Styles with new RND Components Library",
+        "hash": "1e61e61d276aaf26e1e38c2672a6ab232da7a611",
+        "created": {
+          "iso": "2020-07-31T15:00:31+00:00",
+          "unix": 1596207631
+        }
+      },
+      {
+        "message": "feat!: Add Alpha Channels, Add Opacity-15",
+        "hash": "4a7c754766ab83fbef5e56a2990fb3577573c51d",
+        "created": {
+          "iso": "2020-07-31T15:22:58+00:00",
+          "unix": 1596208978
+        }
+      },
+      {
+        "message": "feat!: Add Alpha Channels, Add Opacity-15",
+        "hash": "54a0893b3fbcae122155d3e43bed160e1fe6a365",
+        "created": {
+          "iso": "2020-07-31T15:22:58+00:00",
+          "unix": 1596208978
+        }
+      },
+      {
+        "message": "* fix: Repair https://bitbucket.org/madsack-rnd/components/commits/efbb5680b053818a8bed08093a12778afc36c719",
+        "hash": "8bf72a6a627651106b6b7abcd9d0712ee2743496",
+        "created": {
+          "iso": "2020-07-31T15:38:52+00:00",
+          "unix": 1596209932
+        }
+      },
+      {
+        "message": "* fix: Repair https://bitbucket.org/madsack-rnd/components/commits/efbb5680b053818a8bed08093a12778afc36c719",
+        "hash": "38b6afc402db7e79df46b579c7e8121f4f1c20e9",
+        "created": {
+          "iso": "2020-07-31T15:38:52+00:00",
+          "unix": 1596209932
+        }
+      },
+      {
+        "message": "feat: Add Version Number to Footer on login page",
+        "hash": "6df3c44ecdd1a84fcd9c5b2203d569efd1d97c89",
+        "created": {
+          "iso": "2020-08-03T08:26:50+00:00",
+          "unix": 1596443210
+        }
+      },
+      {
+        "message": "feat: Add Version Number to Footer on login page",
+        "hash": "a93f248bd1b84324bd0f0b8ef142910e389fc568",
+        "created": {
+          "iso": "2020-08-03T08:26:50+00:00",
+          "unix": 1596443210
+        }
+      },
+      {
+        "message": "fix: Add CustomEvents Polyfill for IE 11 via Polyfills.io Service",
+        "hash": "68627bd97a3cf11dd2635588e2ef2a1b53300f22",
+        "created": {
+          "iso": "2020-08-03T08:35:28+00:00",
+          "unix": 1596443728
+        }
+      },
+      {
+        "message": "fix: Add CustomEvents Polyfill for IE 11 via Polyfills.io Service",
+        "hash": "4b288c0e3b01099863d8edbf9c44ef8dd6007e62",
+        "created": {
+          "iso": "2020-08-03T08:35:28+00:00",
+          "unix": 1596443728
+        }
+      },
+      {
+        "message": "fix: Change Box Color to Grey000",
+        "hash": "816bfe93fc6d9aab977e7dd2fec5db0c41d388fe",
+        "created": {
+          "iso": "2020-08-03T09:08:12+00:00",
+          "unix": 1596445692
+        }
+      },
+      {
+        "message": "fix: Change Box Color to Grey000",
+        "hash": "5a19241d6689a94abf3405427810578a6a7e13ec",
+        "created": {
+          "iso": "2020-08-03T09:08:12+00:00",
+          "unix": 1596445692
+        }
+      },
+      {
+        "message": "feat: error input field",
+        "hash": "2b921df0205ded024628d5ce962f1b4b35d5d66c",
+        "created": {
+          "iso": "2020-08-03T09:08:32+00:00",
+          "unix": 1596445712
+        }
+      },
+      {
+        "message": "feat: error input field",
+        "hash": "3edab37f9fd2a3bb2e209d43bcf32ea362e75e8d",
+        "created": {
+          "iso": "2020-08-03T09:08:32+00:00",
+          "unix": 1596445712
+        }
+      },
+      {
+        "message": "fix: Add Alert Borders",
+        "hash": "5df45a2b5d30a4aca75403f30340653be714c642",
+        "created": {
+          "iso": "2020-08-03T12:41:21+00:00",
+          "unix": 1596458481
+        }
+      },
+      {
+        "message": "fix: Add Alert Borders",
+        "hash": "9d98ae311e1c34990a312e620c9d3106911f8e38",
+        "created": {
+          "iso": "2020-08-03T12:41:21+00:00",
+          "unix": 1596458481
+        }
+      },
+      {
+        "message": "feat: Add ability to hide trashcan and pass custom props to the buttons",
+        "hash": "23faa43e238d8e68de5f4f93619f7e23ef42d934",
+        "created": {
+          "iso": "2020-08-03T12:53:35+00:00",
+          "unix": 1596459215
+        }
+      },
+      {
+        "message": "feat: Add ability to hide trashcan and pass custom props to the buttons",
+        "hash": "3a1786072144a825be7d3d2242a870a0eb613cf1",
+        "created": {
+          "iso": "2020-08-03T12:53:35+00:00",
+          "unix": 1596459215
+        }
+      },
+      {
+        "message": "fix: Improved Styles in Header, Notification Icon and some minor other elements",
+        "hash": "5ab858fab2cd142b442a77a07d647599ead28d12",
+        "created": {
+          "iso": "2020-08-03T13:47:51+00:00",
+          "unix": 1596462471
+        }
+      },
+      {
+        "message": "fix: Improved Styles in Header, Notification Icon and some minor other elements",
+        "hash": "f753d59841f6fa9ba7cc0ad10cfcfe66e8ac6acf",
+        "created": {
+          "iso": "2020-08-03T13:47:51+00:00",
+          "unix": 1596462471
+        }
+      },
+      {
+        "message": "fix: Add dynamic colors to typography",
+        "hash": "1fb6e52e13c5fb00042019f3c2c176c1c6c7f5b5",
+        "created": {
+          "iso": "2020-08-03T14:05:13+00:00",
+          "unix": 1596463513
+        }
+      },
+      {
+        "message": "fix: Add dynamic colors to typography",
+        "hash": "065686681f1db8b4d2b96b5fd3f84ed931c81ac3",
+        "created": {
+          "iso": "2020-08-03T14:05:13+00:00",
+          "unix": 1596463513
+        }
+      },
+      {
+        "message": "chore: Improve Storybook",
+        "hash": "3b43d58ab2fa4d4f5799ab2483bb121c7a0e2017",
+        "created": {
+          "iso": "2020-08-03T15:02:30+00:00",
+          "unix": 1596466950
+        }
+      },
+      {
+        "message": "chore: Improve Storybook",
+        "hash": "08f2ed8674fcc73452b497df66f790f20b5ca468",
+        "created": {
+          "iso": "2020-08-03T15:02:30+00:00",
+          "unix": 1596466950
+        }
+      },
+      {
+        "message": "fix: Storybook minification",
+        "hash": "d8a05cf3767ed5da72f2aca37dcf7ceaceb52a18",
+        "created": {
+          "iso": "2020-08-03T15:15:04+00:00",
+          "unix": 1596467704
+        }
+      },
+      {
+        "message": "fix: Storybook minification",
+        "hash": "b549608adc9955a6dff4b551eb3afc053e22aca1",
+        "created": {
+          "iso": "2020-08-03T15:15:04+00:00",
+          "unix": 1596467704
+        }
+      },
+      {
+        "message": "feat:LoadingButton",
+        "hash": "4193c07466a5d71585bfd71a6fa2887b1c54f9ed",
+        "created": {
+          "iso": "2020-08-03T15:26:11+00:00",
+          "unix": 1596468371
+        }
+      },
+      {
+        "message": "feat:LoadingButton",
+        "hash": "63623c0ace4d173fdbdc52e88749d34816d56e4e",
+        "created": {
+          "iso": "2020-08-03T15:26:11+00:00",
+          "unix": 1596468371
+        }
+      },
+      {
+        "message": "fix: div height on button view and second color fix for dark mode",
+        "hash": "0788c8e7990043380d86183e47282b66946f1f3e",
+        "created": {
+          "iso": "2020-08-04T07:09:01+00:00",
+          "unix": 1596524941
+        }
+      },
+      {
+        "message": "fix: div height on button view and second color fix for dark mode",
+        "hash": "e909a188ce80a2dff23df3d5191a99e6b6b43a24",
+        "created": {
+          "iso": "2020-08-04T07:09:01+00:00",
+          "unix": 1596524941
+        }
+      },
+      {
+        "message": "feat: profile layout",
+        "hash": "4d9f3a2c9984f746242e2c82376417de6265ef07",
+        "created": {
+          "iso": "2020-08-04T07:41:53+00:00",
+          "unix": 1596526913
+        }
+      },
+      {
+        "message": "feat: profile layout",
+        "hash": "8dbfc976d922f181b657ced1aa800c544ba2a5c6",
+        "created": {
+          "iso": "2020-08-04T07:41:53+00:00",
+          "unix": 1596526913
+        }
+      },
+      {
+        "message": "fix: New Error Boundary fix: Modernizr is now defined on all paths",
+        "hash": "0fa94ff54a343dd9ca9dd8f4c68f92e18f411b21",
+        "created": {
+          "iso": "2020-08-04T08:28:19+00:00",
+          "unix": 1596529699
+        }
+      },
+      {
+        "message": "fix: New Error Boundary fix: Modernizr is now defined on all paths",
+        "hash": "b99d9ea1c8b8b07f20798ddf256c1f984bd53272",
+        "created": {
+          "iso": "2020-08-04T08:28:19+00:00",
+          "unix": 1596529699
+        }
+      },
+      {
+        "message": "feat: Drop Username support in favor of E-Mail",
+        "hash": "7b6cc93a41df0217522f1ff336142b02acef9eee",
+        "created": {
+          "iso": "2020-08-04T08:36:39+00:00",
+          "unix": 1596530199
+        }
+      },
+      {
+        "message": "feat: Drop Username support in favor of E-Mail",
+        "hash": "4d2a702006c32f68bb5b8eefb55b949e4207e360",
+        "created": {
+          "iso": "2020-08-04T08:36:39+00:00",
+          "unix": 1596530199
+        }
+      },
+      {
+        "message": "fix: Alert on PasswordReset",
+        "hash": "f9e0a3a59e61008feef83d54248c6bf3d8365168",
+        "created": {
+          "iso": "2020-08-04T09:12:06+00:00",
+          "unix": 1596532326
+        }
+      },
+      {
+        "message": "fix: Alert on PasswordReset",
+        "hash": "cab89cd75a816ea56c9e55bfbced1a5d0539dfca",
+        "created": {
+          "iso": "2020-08-04T09:12:06+00:00",
+          "unix": 1596532326
+        }
+      },
+      {
+        "message": "fix: edit information messages",
+        "hash": "f71fe55a1421c85a1f3fae4aba263e585e4ee2c4",
+        "created": {
+          "iso": "2020-08-04T09:27:55+00:00",
+          "unix": 1596533275
+        }
+      },
+      {
+        "message": "fix: edit information messages",
+        "hash": "fc008829fb177be0f65615f20fb0c560a1b62a84",
+        "created": {
+          "iso": "2020-08-04T09:27:55+00:00",
+          "unix": 1596533275
+        }
+      },
+      {
+        "message": "test: Add missing tests",
+        "hash": "9d25b68b3f1b73fc08bdbe9c56f90538c78e056b",
+        "created": {
+          "iso": "2020-08-04T11:12:35+00:00",
+          "unix": 1596539555
+        }
+      },
+      {
+        "message": "test: Add missing tests",
+        "hash": "6340db8467be35916efda331e3602276dbee3314",
+        "created": {
+          "iso": "2020-08-04T11:12:35+00:00",
+          "unix": 1596539555
+        }
+      },
+      {
+        "message": "fix(ie11): Add Support for IE11, enable babel and upgrade core-js",
+        "hash": "457b69c2fc4c8cfcfcd90eb0e9960a6b5dff2c21",
+        "created": {
+          "iso": "2020-08-04T12:15:51+00:00",
+          "unix": 1596543351
+        }
+      },
+      {
+        "message": "fix(ie11): Add Support for IE11, enable babel and upgrade core-js",
+        "hash": "b420678dcbf5fe068fc3d7d66a656548e37e20bc",
+        "created": {
+          "iso": "2020-08-04T12:15:51+00:00",
+          "unix": 1596543351
+        }
+      },
+      {
+        "message": "fix(ie11): Improve IE11 support, upgraded core-js",
+        "hash": "4e0ee4159e45de7562d2f110f6c1bc0b687127ce",
+        "created": {
+          "iso": "2020-08-04T12:16:26+00:00",
+          "unix": 1596543386
+        }
+      },
+      {
+        "message": "fix(ie11): Improve IE11 support, upgraded core-js",
+        "hash": "51155a89da653d1582a45a91e2e81e87d28549b5",
+        "created": {
+          "iso": "2020-08-04T12:16:26+00:00",
+          "unix": 1596543386
+        }
+      },
+      {
+        "message": "fix: Rename NavigationScheme.childs to NavigationScheme.children",
+        "hash": "5ce0243216e86c105c257e72477c18330a5a3d48",
+        "created": {
+          "iso": "2020-08-04T12:31:04+00:00",
+          "unix": 1596544264
+        }
+      },
+      {
+        "message": "fix: Rename NavigationScheme.childs to NavigationScheme.children",
+        "hash": "b0f72873d20be2b43674c93fe01c36a0d4b8f7e2",
+        "created": {
+          "iso": "2020-08-04T12:31:04+00:00",
+          "unix": 1596544264
+        }
+      },
+      {
+        "message": "fix: Place Footer behind other Elements to prevent overflowing",
+        "hash": "5e537d7db3dab85e33a14b1b0de663d371fc086f",
+        "created": {
+          "iso": "2020-08-04T12:41:08+00:00",
+          "unix": 1596544868
+        }
+      },
+      {
+        "message": "fix: Place Footer behind other Elements to prevent overflowing",
+        "hash": "1978b1e0022d60d9098d35207f26488b5035fc4c",
+        "created": {
+          "iso": "2020-08-04T12:41:08+00:00",
+          "unix": 1596544868
+        }
+      },
+      {
+        "message": "chore: Disable SourceMaps in prod. Changeable via GENERATE_SOURCEMAP env-var",
+        "hash": "0972c1f8a9c4e9827870349f16ab26791ba730cc",
+        "created": {
+          "iso": "2020-08-04T12:41:51+00:00",
+          "unix": 1596544911
+        }
+      },
+      {
+        "message": "chore: Disable SourceMaps in prod. Changeable via GENERATE_SOURCEMAP env-var",
+        "hash": "303ef0d4d258f50da2c0e208a3a28fc278c5bbf8",
+        "created": {
+          "iso": "2020-08-04T12:41:51+00:00",
+          "unix": 1596544911
+        }
+      },
+      {
+        "message": "feat: IconInputButton",
+        "hash": "7f607895092bf12487c04364d5f676f5941a0af5",
+        "created": {
+          "iso": "2020-08-05T08:00:39+00:00",
+          "unix": 1596614439
+        }
+      },
+      {
+        "message": "feat: IconInputButton",
+        "hash": "5b7005307ede31f99d45180cbb0c1211e9bc2d01",
+        "created": {
+          "iso": "2020-08-05T08:00:39+00:00",
+          "unix": 1596614439
+        }
+      },
+      {
+        "message": "fix: navigation",
+        "hash": "88a1c255745eb5e61577c09acb0018e532f36b2d",
+        "created": {
+          "iso": "2020-08-05T08:45:47+00:00",
+          "unix": 1596617147
+        }
+      },
+      {
+        "message": "fix: navigation",
+        "hash": "46638f2b1da3feabf42fd37572a09ea776f03657",
+        "created": {
+          "iso": "2020-08-05T08:45:47+00:00",
+          "unix": 1596617147
+        }
+      },
+      {
+        "message": "chore: Setup base project",
+        "hash": "f55c5862e0c1e1021205aa08852c4792426bbf80",
+        "created": {
+          "iso": "2020-08-05T11:06:54+02:00",
+          "unix": 1596618414
+        }
+      },
+      {
+        "message": "chore: Setup base project",
+        "hash": "bfaf6ec2c1de749582197facde8d670b2332c2fb",
+        "created": {
+          "iso": "2020-08-05T11:06:54+02:00",
+          "unix": 1596618414
+        }
+      },
+      {
+        "message": "refactor!: Renamed to IconTextButton",
+        "hash": "07fef5fac6759aae15d153c2d61f7050fd5b7b02",
+        "created": {
+          "iso": "2020-08-05T09:26:32+00:00",
+          "unix": 1596619592
+        }
+      },
+      {
+        "message": "refactor!: Renamed to IconTextButton",
+        "hash": "9b1e0dfb0064ede9b19ee62c763e3e06a2fc4099",
+        "created": {
+          "iso": "2020-08-05T09:26:32+00:00",
+          "unix": 1596619592
+        }
+      },
+      {
+        "message": "chore: Exporting SCSS Variables so we can use them with webpack",
+        "hash": "c23f97ea12bbd1f3444de2020bf2929fa15ff2dd",
+        "created": {
+          "iso": "2020-08-05T12:42:48+00:00",
+          "unix": 1596631368
+        }
+      },
+      {
+        "message": "chore: Exporting SCSS Variables so we can use them with webpack",
+        "hash": "90e643d8cdc1123251859d9e64562bada943899e",
+        "created": {
+          "iso": "2020-08-05T12:42:48+00:00",
+          "unix": 1596631368
+        }
+      },
+      {
+        "message": "Merged in fix/tabs (pull request #27)",
+        "hash": "39f7464a67c512e0b5ada9ac55ab783befe67287",
+        "created": {
+          "iso": "2020-08-06T06:37:40+00:00",
+          "unix": 1596695860
+        }
+      },
+      {
+        "message": "Merged in fix/tabs (pull request #27)",
+        "hash": "175bc12866fb9ae58776f5db67046bd258526915",
+        "created": {
+          "iso": "2020-08-06T06:37:40+00:00",
+          "unix": 1596695860
+        }
+      },
+      {
+        "message": "* fix: types for props, add to index.tsx",
+        "hash": "6983fbb51841930f13e23f3a6325d8bfa62bfed9",
+        "created": {
+          "iso": "2020-08-06T08:45:08+00:00",
+          "unix": 1596703508
+        }
+      },
+      {
+        "message": "* fix: types for props, add to index.tsx",
+        "hash": "327ae8f8a918f84be1ff1b7e8177ea36c25b522e",
+        "created": {
+          "iso": "2020-08-06T08:45:08+00:00",
+          "unix": 1596703508
+        }
+      },
+      {
+        "message": "feat: Add Chip Component",
+        "hash": "95885e8bc1d3f80765d160a0b0d7c155f6462f0d",
+        "created": {
+          "iso": "2020-08-06T08:49:02+00:00",
+          "unix": 1596703742
+        }
+      },
+      {
+        "message": "feat: Add Chip Component",
+        "hash": "eeb125eb6fbad9b5cdb39548e41b46fa58cdb974",
+        "created": {
+          "iso": "2020-08-06T08:49:02+00:00",
+          "unix": 1596703742
+        }
+      },
+      {
+        "message": "fix: Improve Chip styling",
+        "hash": "f5eae72f2f4a8147878517212c217cb7e02fb71c",
+        "created": {
+          "iso": "2020-08-06T12:53:11+02:00",
+          "unix": 1596711191
+        }
+      },
+      {
+        "message": "fix: Improve Chip styling",
+        "hash": "b9943b5ff4644aded29cf0d4da02c39478da7e02",
+        "created": {
+          "iso": "2020-08-06T12:53:11+02:00",
+          "unix": 1596711191
+        }
+      },
+      {
+        "message": "feat:userpopup",
+        "hash": "16d566fc084252fdd98ba09df6f251a4ff685059",
+        "created": {
+          "iso": "2020-08-06T13:26:12+02:00",
+          "unix": 1596713172
+        }
+      },
+      {
+        "message": "feat:userpopup",
+        "hash": "1b841b4859ac30704efbc4dcbe5b3cb1106765cc",
+        "created": {
+          "iso": "2020-08-06T13:26:12+02:00",
+          "unix": 1596713172
+        }
+      },
+      {
+        "message": "fix: Add custom Class to Chip without overwriting default",
+        "hash": "c6fe3398ea2390f20d124c6229fe98b340a44642",
+        "created": {
+          "iso": "2020-08-06T12:33:37+00:00",
+          "unix": 1596717217
+        }
+      },
+      {
+        "message": "fix: Add custom Class to Chip without overwriting default",
+        "hash": "2c82ed09922cdc6b9ddc7d4b94d265010dfa788e",
+        "created": {
+          "iso": "2020-08-06T12:33:37+00:00",
+          "unix": 1596717217
+        }
+      },
+      {
+        "message": "fix: Switch to new colors",
+        "hash": "9c639a813dcc6599bed3e749a887a7c099e89a79",
+        "created": {
+          "iso": "2020-08-06T12:47:36+00:00",
+          "unix": 1596718056
+        }
+      },
+      {
+        "message": "fix: Switch to new colors",
+        "hash": "75736804047fee0c585d5e78b3e57b3589d74ad6",
+        "created": {
+          "iso": "2020-08-06T12:47:36+00:00",
+          "unix": 1596718056
+        }
+      },
+      {
+        "message": "fix: Add .yarnrc fix: Decrease Version",
+        "hash": "67c5440c47d64f0ef62af9b58f232fcd07d1ef2a",
+        "created": {
+          "iso": "2020-08-06T16:16:09+00:00",
+          "unix": 1596730569
+        }
+      },
+      {
+        "message": "fix: Add .yarnrc fix: Decrease Version",
+        "hash": "0fc2840bb7ddc1b00f47de61f04a2bc930c27fbb",
+        "created": {
+          "iso": "2020-08-06T16:16:09+00:00",
+          "unix": 1596730569
+        }
+      },
+      {
+        "message": "fix(ci): Change Container save Path",
+        "hash": "32c71e709a823e24f770ec86564484721e833840",
+        "created": {
+          "iso": "2020-08-06T19:39:00+00:00",
+          "unix": 1596742740
+        }
+      },
+      {
+        "message": "fix(ci): Change Container save Path",
+        "hash": "2b3768072dec6256e6643d9a182e87174b52e9fb",
+        "created": {
+          "iso": "2020-08-06T19:39:00+00:00",
+          "unix": 1596742740
+        }
+      },
+      {
+        "message": "hotfix(ci): Set Docker Port correctly",
+        "hash": "dcf1e63f0ca38b156537b5fcccdcddf2c20ea9d5",
+        "created": {
+          "iso": "2020-08-06T21:48:06+02:00",
+          "unix": 1596743286
+        }
+      },
+      {
+        "message": "hotfix(ci): Set Docker Port correctly",
+        "hash": "9bca547b030d79ca10f54c5cc57d47f4356d9fb2",
+        "created": {
+          "iso": "2020-08-06T21:48:06+02:00",
+          "unix": 1596743286
+        }
+      },
+      {
+        "message": "fix(ci): Switch to nginx.cors.conf",
+        "hash": "ace741e4349919c864f616ce98c441ddedffb934",
+        "created": {
+          "iso": "2020-08-06T21:58:08+02:00",
+          "unix": 1596743888
+        }
+      },
+      {
+        "message": "fix(ci): Switch to nginx.cors.conf",
+        "hash": "428caf24d442b24128d270302a747d2ca8ae527c",
+        "created": {
+          "iso": "2020-08-06T21:58:08+02:00",
+          "unix": 1596743888
+        }
+      },
+      {
+        "message": "Merge branch 'master' of bitbucket.org:madsack-rnd/sperrvermerke",
+        "hash": "5ccac4e581f6e31c1dad0914c01dfb779af54ff4",
+        "created": {
+          "iso": "2020-08-06T21:58:31+02:00",
+          "unix": 1596743911
+        }
+      },
+      {
+        "message": "Merge branch 'master' of bitbucket.org:madsack-rnd/sperrvermerke",
+        "hash": "cd5c215efd091cccf68750848010cc80ecff8845",
+        "created": {
+          "iso": "2020-08-06T21:58:31+02:00",
+          "unix": 1596743911
+        }
+      },
+      {
+        "message": "fix(ci): Forgot to change the move command",
+        "hash": "4eb67705b588621b8b7b2e0929cd4d72f93d4138",
+        "created": {
+          "iso": "2020-08-07T09:01:29+02:00",
+          "unix": 1596783689
+        }
+      },
+      {
+        "message": "fix(ci): Forgot to change the move command",
+        "hash": "cfaddc730aec8d0ac815da977102459de339b658",
+        "created": {
+          "iso": "2020-08-07T09:01:29+02:00",
+          "unix": 1596783689
+        }
+      },
+      {
+        "message": "fix(sass): Remove compound selector as they are no longer extendable",
+        "hash": "19d19696a0404c792d1754091e7e4012ae307094",
+        "created": {
+          "iso": "2020-08-07T09:14:52+02:00",
+          "unix": 1596784492
+        }
+      },
+      {
+        "message": "fix(sass): Remove compound selector as they are no longer extendable",
+        "hash": "e875648eb2471d553ad4bdaf5fea2e60daed4b6c",
+        "created": {
+          "iso": "2020-08-07T09:14:52+02:00",
+          "unix": 1596784492
+        }
+      },
+      {
+        "message": "fix(sass): Remove compound selector as they are no longer extendable",
+        "hash": "0ae26434ccfaae347af6e853dac3e4275a3f6f19",
+        "created": {
+          "iso": "2020-08-07T11:02:49+00:00",
+          "unix": 1596798169
+        }
+      },
+      {
+        "message": "fix(sass): Remove compound selector as they are no longer extendable",
+        "hash": "e2dc0f1d733b17447d1fc04f07d1a6f99c735386",
+        "created": {
+          "iso": "2020-08-07T11:02:49+00:00",
+          "unix": 1596798169
+        }
+      },
+      {
+        "message": "Webpack now exports the SASS as separate CSS files improving load time",
+        "hash": "76e7ac9f6a51cf3ea7b8465e794c447099c09a89",
+        "created": {
+          "iso": "2020-08-07T11:32:09+00:00",
+          "unix": 1596799929
+        }
+      },
+      {
+        "message": "Webpack now exports the SASS as separate CSS files improving load time",
+        "hash": "1e64787ba5ba6cd778c26d9242ce193ce4f5fdf2",
+        "created": {
+          "iso": "2020-08-07T11:32:09+00:00",
+          "unix": 1596799929
+        }
+      },
+      {
+        "message": "feat(dash): Add Dashboard",
+        "hash": "42136f9a6a17598a3c48e354fb043d23949c1685",
+        "created": {
+          "iso": "2020-08-07T11:51:23+00:00",
+          "unix": 1596801083
+        }
+      },
+      {
+        "message": "feat(dash): Add Dashboard",
+        "hash": "eb35d6d519c02c2dfe55fc83cb074774098a76de",
+        "created": {
+          "iso": "2020-08-07T11:51:23+00:00",
+          "unix": 1596801083
+        }
+      },
+      {
+        "message": "fix(easteregg): Nyan Cat",
+        "hash": "26a247dd6ef85b1d3d0b3a87bd1ac5a42aa1bfd7",
+        "created": {
+          "iso": "2020-08-07T13:25:16+00:00",
+          "unix": 1596806716
+        }
+      },
+      {
+        "message": "fix(easteregg): Nyan Cat",
+        "hash": "9407dd376ac96e0fc6978c9cc277771918e1dc20",
+        "created": {
+          "iso": "2020-08-07T13:25:16+00:00",
+          "unix": 1596806716
+        }
+      },
+      {
+        "message": "feat:table,popup,sorting",
+        "hash": "1eab3180674df0b4f9644a46669212de15b69cde",
+        "created": {
+          "iso": "2020-08-09T19:03:35+02:00",
+          "unix": 1596992615
+        }
+      },
+      {
+        "message": "feat:table,popup,sorting",
+        "hash": "622d4f3cb209a30d884863fdb4a3061fe8deabda",
+        "created": {
+          "iso": "2020-08-09T19:03:35+02:00",
+          "unix": 1596992615
+        }
+      },
+      {
+        "message": "feat: Pagination",
+        "hash": "a610ca4cce49b7e7ba52686a3bb597c5b189f906",
+        "created": {
+          "iso": "2020-08-10T08:41:00+02:00",
+          "unix": 1597041660
+        }
+      },
+      {
+        "message": "feat: Pagination",
+        "hash": "32eb128d5d429c5b5b84f95e25af51ab26e1b6bd",
+        "created": {
+          "iso": "2020-08-10T08:41:00+02:00",
+          "unix": 1597041660
+        }
+      },
+      {
+        "message": "feat: Pagination",
+        "hash": "8b77a1c1f66f5ec86503f0f1b050a8ee1ff3462c",
+        "created": {
+          "iso": "2020-08-10T08:41:28+02:00",
+          "unix": 1597041688
+        }
+      },
+      {
+        "message": "feat: Pagination",
+        "hash": "6def36e084e5b7fd0bf0dc987ae3cae5f4f40a75",
+        "created": {
+          "iso": "2020-08-10T08:41:28+02:00",
+          "unix": 1597041688
+        }
+      },
+      {
+        "message": "feat: pagination editing",
+        "hash": "1098f984eba188108eddb2d20f69889de9bfba79",
+        "created": {
+          "iso": "2020-08-11T08:02:52+02:00",
+          "unix": 1597125772
+        }
+      },
+      {
+        "message": "feat: pagination editing",
+        "hash": "3bc851f5458ef7597558d1b1b88c28fdf3d90678",
+        "created": {
+          "iso": "2020-08-11T08:02:52+02:00",
+          "unix": 1597125772
+        }
+      },
+      {
+        "message": "feat: userTable, groupTable, formTable",
+        "hash": "280811d8d30d964b220e95fac164bc08c535ad8f",
+        "created": {
+          "iso": "2020-08-17T15:03:28+02:00",
+          "unix": 1597669408
+        }
+      },
+      {
+        "message": "feat: userTable, groupTable, formTable",
+        "hash": "f359e4213be8217948c44974e1865636a75691ae",
+        "created": {
+          "iso": "2020-08-17T15:03:28+02:00",
+          "unix": 1597669408
+        }
+      },
+      {
+        "message": "build(ci): rebuilding pipeline",
+        "hash": "469e2363a6d007756e2a16ad0873b626661f1024",
+        "created": {
+          "iso": "2020-08-19T12:13:21+00:00",
+          "unix": 1597839201
+        }
+      },
+      {
+        "message": "build(ci): rebuilding pipeline",
+        "hash": "9304b4ede5448cbc35fe58d587b6ed8b3796142f",
+        "created": {
+          "iso": "2020-08-19T12:13:21+00:00",
+          "unix": 1597839201
+        }
+      },
+      {
+        "message": "feat!: Added Palette Provider and updated Color Palettes",
+        "hash": "30ed3c03f4f551b68d58545097fcddd2cef92914",
+        "created": {
+          "iso": "2020-08-19T12:13:50+00:00",
+          "unix": 1597839230
+        }
+      },
+      {
+        "message": "feat!: Added Palette Provider and updated Color Palettes",
+        "hash": "47dac06976c75a845a9f44696c8fb7af6ce35796",
+        "created": {
+          "iso": "2020-08-19T12:13:50+00:00",
+          "unix": 1597839230
+        }
+      },
+      {
+        "message": "feat: Add indeterminate Button and forward Refs to Input",
+        "hash": "9e2337b73a3f47255c7095d0f60c70b96ed97877",
+        "created": {
+          "iso": "2020-08-19T13:33:47+00:00",
+          "unix": 1597844027
+        }
+      },
+      {
+        "message": "feat: Add indeterminate Button and forward Refs to Input",
+        "hash": "a0771de340c9d301d08e0ce5c2f29df4bca40f5d",
+        "created": {
+          "iso": "2020-08-19T13:33:47+00:00",
+          "unix": 1597844027
+        }
+      },
+      {
+        "message": "chore: Upgrading Storybook to 6.0.13",
+        "hash": "079b8d6c33336fb778887ba696cc8d395bb38f9d",
+        "created": {
+          "iso": "2020-08-19T15:29:18+00:00",
+          "unix": 1597850958
+        }
+      },
+      {
+        "message": "chore: Upgrading Storybook to 6.0.13",
+        "hash": "08770e25545958eb95ecfcc6a7fc4f14566e4d63",
+        "created": {
+          "iso": "2020-08-19T15:29:18+00:00",
+          "unix": 1597850958
+        }
+      },
+      {
+        "message": "feat: Upgrade to @rnd/components 0.5.0 and include Palette Provider Support",
+        "hash": "6157399b21b65b83e2cb52ef2fbfbc0965a63c57",
+        "created": {
+          "iso": "2020-08-19T15:54:33+00:00",
+          "unix": 1597852473
+        }
+      },
+      {
+        "message": "feat: Upgrade to @rnd/components 0.5.0 and include Palette Provider Support",
+        "hash": "f581175fbec2bcc827e59da75dde83907687f315",
+        "created": {
+          "iso": "2020-08-19T15:54:33+00:00",
+          "unix": 1597852473
+        }
+      },
+      {
+        "message": "feat: basic user routes, some attributes",
+        "hash": "3d0f2381ea76296208df31dde912f93c85a079bd",
+        "created": {
+          "iso": "2020-08-25T11:37:24+02:00",
+          "unix": 1598348244
+        }
+      },
+      {
+        "message": "feat: basic user routes, some attributes",
+        "hash": "774646af78bffed07b4dd7b352d7ea3ebab08e0d",
+        "created": {
+          "iso": "2020-08-25T11:37:24+02:00",
+          "unix": 1598348244
+        }
+      },
+      {
+        "message": "feat: Basic API Client",
+        "hash": "2667318d71d28d99cc000ebd9d8ba39af5051997",
+        "created": {
+          "iso": "2020-08-27T16:42:07+02:00",
+          "unix": 1598539327
+        }
+      },
+      {
+        "message": "feat: Basic API Client",
+        "hash": "d3e3b6371c2e483192539bbac8c2fac5ef3c1c11",
+        "created": {
+          "iso": "2020-08-27T16:42:07+02:00",
+          "unix": 1598539327
+        }
+      },
+      {
+        "message": "feat: Cognito implementation fix: WebPack Config Update with Module Splitting for better caching feat: Support Palette Provider",
+        "hash": "1b04742a1d6234aa1ec2bbee253c097aaa3ea85d",
+        "created": {
+          "iso": "2020-08-28T10:37:23+00:00",
+          "unix": 1598611043
+        }
+      },
+      {
+        "message": "feat: Cognito implementation fix: WebPack Config Update with Module Splitting for better caching feat: Support Palette Provider",
+        "hash": "17ba51982cafd5124ef25a42339d716fe4ee75ad",
+        "created": {
+          "iso": "2020-08-28T10:37:23+00:00",
+          "unix": 1598611043
+        }
+      },
+      {
+        "message": "hotfix: Fix BundleAnalyzer hanging up the pipeline",
+        "hash": "72332b78f676adf2b0a480f9292ea2a5feba842f",
+        "created": {
+          "iso": "2020-08-28T12:49:09+02:00",
+          "unix": 1598611749
+        }
+      },
+      {
+        "message": "hotfix: Fix BundleAnalyzer hanging up the pipeline",
+        "hash": "48d9c02be27a82bd18cc029e337e23d9cbdbb64c",
+        "created": {
+          "iso": "2020-08-28T12:49:09+02:00",
+          "unix": 1598611749
+        }
+      },
+      {
+        "message": "fix: Fix Microfrontend-Loader appending multiple times",
+        "hash": "697280de6fa82281e08c02ebbdb4b05a9e715640",
+        "created": {
+          "iso": "2020-08-28T13:13:27+00:00",
+          "unix": 1598620407
+        }
+      },
+      {
+        "message": "fix: Fix Microfrontend-Loader appending multiple times",
+        "hash": "53a9a628cb910fcbbd503f01ccff15d272ed9a17",
+        "created": {
+          "iso": "2020-08-28T13:13:27+00:00",
+          "unix": 1598620407
+        }
+      },
+      {
+        "message": "fix: Better Error Messages feat: FORCE_PASSWORD_CHANGE Support (with self-made design) feat: Add Cognito Required Attributes to Password Set fix: Update to COP API 0.0.2 Beta 21 fix: Create empty AppSync Entry if Favorites were not found",
+        "hash": "543f46720fe77453bba5e83c3894eaed3ed95b3f",
+        "created": {
+          "iso": "2020-08-31T09:19:47+00:00",
+          "unix": 1598865587
+        }
+      },
+      {
+        "message": "fix: Better Error Messages feat: FORCE_PASSWORD_CHANGE Support (with self-made design) feat: Add Cognito Required Attributes to Password Set fix: Update to COP API 0.0.2 Beta 21 fix: Create empty AppSync Entry if Favorites were not found",
+        "hash": "60aa7826c07374af5457a410b37c347f91960408",
+        "created": {
+          "iso": "2020-08-31T09:19:47+00:00",
+          "unix": 1598865587
+        }
+      },
+      {
+        "message": "fix: Route Variables",
+        "hash": "c451ad701e5363271b15a7360166d32b85b1e6e6",
+        "created": {
+          "iso": "2020-08-31T10:27:53+00:00",
+          "unix": 1598869673
+        }
+      },
+      {
+        "message": "fix: Route Variables",
+        "hash": "815a0f9a907c44e5655d4e0e0d078a62d22a3382",
+        "created": {
+          "iso": "2020-08-31T10:27:53+00:00",
+          "unix": 1598869673
+        }
+      },
+      {
+        "message": "fix: Internet Explorer 11",
+        "hash": "030d7952c75a9f5a53aeddf9793a136c88a12067",
+        "created": {
+          "iso": "2020-08-31T13:00:40+02:00",
+          "unix": 1598871640
+        }
+      },
+      {
+        "message": "fix: Internet Explorer 11",
+        "hash": "24ed17ff5acedb657630e05cf7477d88b19a989a",
+        "created": {
+          "iso": "2020-08-31T13:00:40+02:00",
+          "unix": 1598871640
+        }
+      },
+      {
+        "message": "fix: Change Type to \"password\" for Password Inputs",
+        "hash": "eaa5b796aa079a07e43534fc7c173b1d9a28ff0b",
+        "created": {
+          "iso": "2020-08-31T13:06:36+02:00",
+          "unix": 1598871996
+        }
+      },
+      {
+        "message": "fix: Change Type to \"password\" for Password Inputs",
+        "hash": "6aec660728835ad49517c79bd277809866cc153f",
+        "created": {
+          "iso": "2020-08-31T13:06:36+02:00",
+          "unix": 1598871996
+        }
+      },
+      {
+        "message": "feat: Add PermissionProvider feat: Add Public Route feat: Add Private Route and fix Typos feat: Add Private Route, Public Route, PermissionProvider feat: Add Initials fix: Avatar now supports Gravatar and Initials fix: Navigation Route now supports onClick for star icon fix: Add SCSS Spacing Variables fix eslint conf",
+        "hash": "145d620c64d98c2e2676e41298cdc49d4dea60b7",
+        "created": {
+          "iso": "2020-08-31T11:19:56+00:00",
+          "unix": 1598872796
+        }
+      },
+      {
+        "message": "feat: Add PermissionProvider feat: Add Public Route feat: Add Private Route and fix Typos feat: Add Private Route, Public Route, PermissionProvider feat: Add Initials fix: Avatar now supports Gravatar and Initials fix: Navigation Route now supports onClick for star icon fix: Add SCSS Spacing Variables fix eslint conf",
+        "hash": "6b30df8f52ac0f9afbb7791a3cdcb8df88ec021e",
+        "created": {
+          "iso": "2020-08-31T11:19:56+00:00",
+          "unix": 1598872796
+        }
+      },
+      {
+        "message": "fix: Small color changes",
+        "hash": "5190154536a943d7c8307c476571dc15d56274fc",
+        "created": {
+          "iso": "2020-08-31T12:36:04+00:00",
+          "unix": 1598877364
+        }
+      },
+      {
+        "message": "fix: Small color changes",
+        "hash": "efce2621ae345e11596f502abf7a315f44759ae2",
+        "created": {
+          "iso": "2020-08-31T12:36:04+00:00",
+          "unix": 1598877364
+        }
+      },
+      {
+        "message": "feat: Store User Theme in DynamoDB",
+        "hash": "375b815e6d2cc05ac9645e290f91016afded19b7",
+        "created": {
+          "iso": "2020-09-01T10:27:42+00:00",
+          "unix": 1598956062
+        }
+      },
+      {
+        "message": "feat: Store User Theme in DynamoDB",
+        "hash": "714fd0c11e071bcde4d587d2f85035b839b42446",
+        "created": {
+          "iso": "2020-09-01T10:27:42+00:00",
+          "unix": 1598956062
+        }
+      },
+      {
+        "message": "fix: Only allow two Letters per Initial",
+        "hash": "d77ec5a6effda79953a2f5968ebc44005528eadd",
+        "created": {
+          "iso": "2020-09-01T15:07:12+02:00",
+          "unix": 1598965632
+        }
+      },
+      {
+        "message": "fix: Only allow two Letters per Initial",
+        "hash": "d50ccc2ecc6319141037641601ab14d875fbda0b",
+        "created": {
+          "iso": "2020-09-01T15:07:12+02:00",
+          "unix": 1598965632
+        }
+      },
+      {
+        "message": "feat: Add Page Header fix: Button spins ease-in-out",
+        "hash": "a1f1c4fdd3a93f1ea32bc6e7190e67f7a9b87cfa",
+        "created": {
+          "iso": "2020-09-01T15:19:56+00:00",
+          "unix": 1598973596
+        }
+      },
+      {
+        "message": "feat: Add Page Header fix: Button spins ease-in-out",
+        "hash": "f846d112e8f2e305754452ce3f3015e9ea0638c9",
+        "created": {
+          "iso": "2020-09-01T15:19:56+00:00",
+          "unix": 1598973596
+        }
+      },
+      {
+        "message": "fix: Icon Text Buttons correct text color fix: Icon Text Buttons Margins for different sizes",
+        "hash": "41575abe203ade2923fa80dd0b2103acf8a71475",
+        "created": {
+          "iso": "2020-09-02T10:32:51+02:00",
+          "unix": 1599035571
+        }
+      },
+      {
+        "message": "fix: Icon Text Buttons correct text color fix: Icon Text Buttons Margins for different sizes",
+        "hash": "03f3f496bb62e0bf06f0e7d4fbb75d071384d74c",
+        "created": {
+          "iso": "2020-09-02T10:32:51+02:00",
+          "unix": 1599035571
+        }
+      },
+      {
+        "message": "fix: A lot feat: Add Stats",
+        "hash": "5b6222ee90e5a96ec5a014f050250c227e847e05",
+        "created": {
+          "iso": "2020-09-02T13:25:37+02:00",
+          "unix": 1599045937
+        }
+      },
+      {
+        "message": "fix: A lot feat: Add Stats",
+        "hash": "6156c2b387c1738474bd7ea6be7f959262c23dc0",
+        "created": {
+          "iso": "2020-09-02T13:25:37+02:00",
+          "unix": 1599045937
+        }
+      },
+      {
+        "message": "feat: Add GraphQL Query for Dashboard Chart and Statistics fix: Change Hotkey for Nyancat Minigame to CTRL+SHIFT+COMMAND+N",
+        "hash": "6100cfbdf62c2ade8f7dda91c7c1426f580ab8c4",
+        "created": {
+          "iso": "2020-09-02T16:18:27+02:00",
+          "unix": 1599056307
+        }
+      },
+      {
+        "message": "feat: Add GraphQL Query for Dashboard Chart and Statistics fix: Change Hotkey for Nyancat Minigame to CTRL+SHIFT+COMMAND+N",
+        "hash": "1b5e25189f0698a17146cd92ea890a01911b9e54",
+        "created": {
+          "iso": "2020-09-02T16:18:27+02:00",
+          "unix": 1599056307
+        }
+      },
+      {
+        "message": "fix: stash update",
+        "hash": "6aaca398c4f1b264fbfa104e6635cfcc98ea756d",
+        "created": {
+          "iso": "2020-09-03T08:46:22+02:00",
+          "unix": 1599115582
+        }
+      },
+      {
+        "message": "fix: stash update",
+        "hash": "e85d83fd299020d40cfa70a76499f4945664a4fd",
+        "created": {
+          "iso": "2020-09-03T08:46:22+02:00",
+          "unix": 1599115582
+        }
+      },
+      {
+        "message": "feat: Add MobX",
+        "hash": "9ae10d2d4bceccbcef4b66de7b7ac613ca108713",
+        "created": {
+          "iso": "2020-09-03T13:05:44+02:00",
+          "unix": 1599131144
+        }
+      },
+      {
+        "message": "feat: Add MobX",
+        "hash": "30a7cf829162ef43b6c54aed8c8046b4c61e7d33",
+        "created": {
+          "iso": "2020-09-03T13:05:44+02:00",
+          "unix": 1599131144
+        }
+      },
+      {
+        "message": "feat: Add more stats, improve chart",
+        "hash": "991c93f174341ec5b9dd24d34d0ae462e9c15e21",
+        "created": {
+          "iso": "2020-09-03T11:48:19+00:00",
+          "unix": 1599133699
+        }
+      },
+      {
+        "message": "feat: Add more stats, improve chart",
+        "hash": "5ed4691f8aa6ae96125ed383ea5edb7114aaea05",
+        "created": {
+          "iso": "2020-09-03T11:48:19+00:00",
+          "unix": 1599133699
+        }
+      },
+      {
+        "message": "* feat: Add Stepper Component",
+        "hash": "101ce14393d5fea0f68fe8bd9c4997d480f8f8e4",
+        "created": {
+          "iso": "2020-09-04T14:05:28+00:00",
+          "unix": 1599228328
+        }
+      },
+      {
+        "message": "* feat: Add Stepper Component",
+        "hash": "ba8710438823c4e5619f326eae3e45444b34e5ed",
+        "created": {
+          "iso": "2020-09-04T14:05:28+00:00",
+          "unix": 1599228328
+        }
+      },
+      {
+        "message": "feat: Upgrade Avatar Component with new Border feat: Show Avatar in Dropdown",
+        "hash": "3fe7f298208c3a00e54f008ae09de12a9e0d0619",
+        "created": {
+          "iso": "2020-09-07T08:12:45+00:00",
+          "unix": 1599466365
+        }
+      },
+      {
+        "message": "feat: Upgrade Avatar Component with new Border feat: Show Avatar in Dropdown",
+        "hash": "19c853b767d66ee4abec4fa6526c1064dcf3abf1",
+        "created": {
+          "iso": "2020-09-07T08:12:45+00:00",
+          "unix": 1599466365
+        }
+      },
+      {
+        "message": "feat: Add Labels",
+        "hash": "677db50626252e96d771f6bb49808193c38e21d7",
+        "created": {
+          "iso": "2020-09-07T08:21:24+00:00",
+          "unix": 1599466884
+        }
+      },
+      {
+        "message": "feat: Add Labels",
+        "hash": "acf16e5fddc599999f7cb6c92eb1845b648ffbd3",
+        "created": {
+          "iso": "2020-09-07T08:21:24+00:00",
+          "unix": 1599466884
+        }
+      },
+      {
+        "message": "build(docker): adding aws-cli support",
+        "hash": "11ad4fa81503f4fdcc3dc6b2e711cb13e89cd764",
+        "created": {
+          "iso": "2020-09-07T09:24:34+00:00",
+          "unix": 1599470674
+        }
+      },
+      {
+        "message": "build(docker): adding aws-cli support",
+        "hash": "b80a2f06cc2828f00946f5661d07ecc413444a6d",
+        "created": {
+          "iso": "2020-09-07T09:24:34+00:00",
+          "unix": 1599470674
+        }
+      },
+      {
+        "message": "fix: Add labels to default exports",
+        "hash": "57612f33d1783db084897b195c8f96fa9227db45",
+        "created": {
+          "iso": "2020-09-07T09:30:07+00:00",
+          "unix": 1599471007
+        }
+      },
+      {
+        "message": "fix: Add labels to default exports",
+        "hash": "72e240c336058d73a7a0620ab0ad55d8b186dd8b",
+        "created": {
+          "iso": "2020-09-07T09:30:07+00:00",
+          "unix": 1599471007
+        }
+      },
+      {
+        "message": "chore: Add Reactotron Configuration fix: Do not load Theme from DynamoDB if user is not logged in",
+        "hash": "de908ef314e64bdddd5d2267b2232a8444305e30",
+        "created": {
+          "iso": "2020-09-07T12:33:54+00:00",
+          "unix": 1599482034
+        }
+      },
+      {
+        "message": "chore: Add Reactotron Configuration fix: Do not load Theme from DynamoDB if user is not logged in",
+        "hash": "8d9b27ca1cc0d591d7b3c6a90624b1032860305b",
+        "created": {
+          "iso": "2020-09-07T12:33:54+00:00",
+          "unix": 1599482034
+        }
+      },
+      {
+        "message": "build(ci): referencing correct parameters",
+        "hash": "33b7f869a0cbe4016f017637eba640ae90ff6b19",
+        "created": {
+          "iso": "2020-09-07T12:57:56+00:00",
+          "unix": 1599483476
+        }
+      },
+      {
+        "message": "build(ci): referencing correct parameters",
+        "hash": "cc5841d8d4afe2a8416a81f3fd2abd121f9be480",
+        "created": {
+          "iso": "2020-09-07T12:57:56+00:00",
+          "unix": 1599483476
+        }
+      },
+      {
+        "message": "hotfix: Drop Reactron as it breaks the page",
+        "hash": "06b7852ad1d9695e703edae39c7511c8e8589ef3",
+        "created": {
+          "iso": "2020-09-07T15:58:45+02:00",
+          "unix": 1599487125
+        }
+      },
+      {
+        "message": "hotfix: Drop Reactron as it breaks the page",
+        "hash": "d0d03666f7e2f0f4bce1d8970170c663aa6a1ca2",
+        "created": {
+          "iso": "2020-09-07T15:58:45+02:00",
+          "unix": 1599487125
+        }
+      },
+      {
+        "message": "feat: Add missing color palettes feat!: Rename \"sperrvermerke\" to \"services\"",
+        "hash": "2614c4f8d06c62e7e1c2df6e2a6378f1227e3b0f",
+        "created": {
+          "iso": "2020-09-07T14:45:55+00:00",
+          "unix": 1599489955
+        }
+      },
+      {
+        "message": "feat: Add missing color palettes feat!: Rename \"sperrvermerke\" to \"services\"",
+        "hash": "7bb0e00390bddf8ee93e1949f6d449f17c66a50b",
+        "created": {
+          "iso": "2020-09-07T14:45:55+00:00",
+          "unix": 1599489955
+        }
+      },
+      {
+        "message": "hotfix: Rename Variables",
+        "hash": "454406b5f8a5294fcc76d3980a592f7a95819ddc",
+        "created": {
+          "iso": "2020-09-07T16:56:35+02:00",
+          "unix": 1599490595
+        }
+      },
+      {
+        "message": "hotfix: Rename Variables",
+        "hash": "8eb6079fc23cf3076c13bda33e6c463955362b31",
+        "created": {
+          "iso": "2020-09-07T16:56:35+02:00",
+          "unix": 1599490595
+        }
+      },
+      {
+        "message": "fix(IconButton): Append Class Name instead over overwriting it",
+        "hash": "e9edb08e151c771bbc3e3369b1061073acf0eec2",
+        "created": {
+          "iso": "2020-09-08T10:15:14+02:00",
+          "unix": 1599552914
+        }
+      },
+      {
+        "message": "fix(IconButton): Append Class Name instead over overwriting it",
+        "hash": "cfd440e97da6bec0a02a8c3ba76315032c7566ff",
+        "created": {
+          "iso": "2020-09-08T10:15:14+02:00",
+          "unix": 1599552914
+        }
+      },
+      {
+        "message": "chore: Upgrade all them dependencies",
+        "hash": "373c0deb2517545631307b445dd05600efcd30c6",
+        "created": {
+          "iso": "2020-09-08T09:02:21+00:00",
+          "unix": 1599555741
+        }
+      },
+      {
+        "message": "chore: Upgrade all them dependencies",
+        "hash": "d59a84df1eaf4104a9a8e384857439bd2a455f84",
+        "created": {
+          "iso": "2020-09-08T09:02:21+00:00",
+          "unix": 1599555741
+        }
+      },
+      {
+        "message": "hotfix: Fix Dependencies for TypeScript",
+        "hash": "088aedd2402adca6b97fbf499362f1fbd73cd0e1",
+        "created": {
+          "iso": "2020-09-08T11:07:05+02:00",
+          "unix": 1599556025
+        }
+      },
+      {
+        "message": "hotfix: Fix Dependencies for TypeScript",
+        "hash": "d8b6846a9e7df0e40845ba4500f75bd60199fde5",
+        "created": {
+          "iso": "2020-09-08T11:07:05+02:00",
+          "unix": 1599556025
+        }
+      },
+      {
+        "message": "chore: Bump RND Icon Lib",
+        "hash": "211c944c208926b6517ef71aa334d15cd3c753a6",
+        "created": {
+          "iso": "2020-09-08T10:37:49+00:00",
+          "unix": 1599561469
+        }
+      },
+      {
+        "message": "chore: Bump RND Icon Lib",
+        "hash": "fe8803e7cdb254c200e960ca99fcd60d5f936235",
+        "created": {
+          "iso": "2020-09-08T10:37:49+00:00",
+          "unix": 1599561469
+        }
+      },
+      {
+        "message": "Feat: pagination, selectbox",
+        "hash": "956111365883573820498acd804d1ba2bc7e40ac",
+        "created": {
+          "iso": "2020-09-08T11:07:33+00:00",
+          "unix": 1599563253
+        }
+      },
+      {
+        "message": "Feat: pagination, selectbox",
+        "hash": "2598202e2e6e53b15e56ab4c7f6ba26917823197",
+        "created": {
+          "iso": "2020-09-08T11:07:33+00:00",
+          "unix": 1599563253
+        }
+      },
+      {
+        "message": "first work on sv",
+        "hash": "9302ef1650f7121e0cf050e1b2603a0db6ca2cc3",
+        "created": {
+          "iso": "2020-09-08T13:21:15+02:00",
+          "unix": 1599564075
+        }
+      },
+      {
+        "message": "first work on sv",
+        "hash": "10c4f9d684ad5e7a3f97774bddf1aae36ad733dc",
+        "created": {
+          "iso": "2020-09-08T13:21:15+02:00",
+          "unix": 1599564075
+        }
+      },
+      {
+        "message": "Feat: create Table Component",
+        "hash": "1c0378f31b0b92e9b882112c8cb25abafc46c61f",
+        "created": {
+          "iso": "2020-09-08T12:16:20+00:00",
+          "unix": 1599567380
+        }
+      },
+      {
+        "message": "Feat: create Table Component",
+        "hash": "f5b40cfc6de5139a7cd8d53659903685343fda25",
+        "created": {
+          "iso": "2020-09-08T12:16:20+00:00",
+          "unix": 1599567380
+        }
+      },
+      {
+        "message": "* fix: add Components to index.tsx",
+        "hash": "c28f0bb6a9ca8696b6dd57f6f3346b572e9c3283",
+        "created": {
+          "iso": "2020-09-08T12:51:45+00:00",
+          "unix": 1599569505
+        }
+      },
+      {
+        "message": "* fix: add Components to index.tsx",
+        "hash": "2bc4b27a26672d468d032602c59c85ff5fd2323b",
+        "created": {
+          "iso": "2020-09-08T12:51:45+00:00",
+          "unix": 1599569505
+        }
+      },
+      {
+        "message": "build(ci): matching pipeline with Parameter Store",
+        "hash": "815feb304f46224bd950f364300348f10fcb4830",
+        "created": {
+          "iso": "2020-09-08T15:03:43+00:00",
+          "unix": 1599577423
+        }
+      },
+      {
+        "message": "build(ci): matching pipeline with Parameter Store",
+        "hash": "53d94e2105eff079bc1bfc2e8db59ea62a9e7782",
+        "created": {
+          "iso": "2020-09-08T15:03:43+00:00",
+          "unix": 1599577423
+        }
+      },
+      {
+        "message": "feat(appsync): make graphql schema deployable with serverless feat: use own db for highscores fix: increase depth to support history fix: create or update dynamodb item fix: use new endpoint fix: Enhance Typings fix: Remove deprecated putUserData Query feat!: Remove user.data.put method chore: remove deprecated putUserData mutation",
+        "hash": "4a80b151f68ebd9d9367766473077f80957658f5",
+        "created": {
+          "iso": "2020-09-09T07:20:01+00:00",
+          "unix": 1599636001
+        }
+      },
+      {
+        "message": "feat(appsync): make graphql schema deployable with serverless feat: use own db for highscores fix: increase depth to support history fix: create or update dynamodb item fix: use new endpoint fix: Enhance Typings fix: Remove deprecated putUserData Query feat!: Remove user.data.put method chore: remove deprecated putUserData mutation",
+        "hash": "9fa0cae8da34a05314dd70254277c4777900a814",
+        "created": {
+          "iso": "2020-09-09T07:20:01+00:00",
+          "unix": 1599636001
+        }
+      },
+      {
+        "message": "build(ci): rebuilding for ECS",
+        "hash": "1155372219a2b1b93a368a46fd9dd50f26ee2204",
+        "created": {
+          "iso": "2020-09-09T07:42:58+00:00",
+          "unix": 1599637378
+        }
+      },
+      {
+        "message": "build(ci): wrong branch",
+        "hash": "149e1d4d58c756dfb9990944cb29853cd8ada4c0",
+        "created": {
+          "iso": "2020-09-09T07:44:56+00:00",
+          "unix": 1599637496
+        }
+      },
+      {
+        "message": "chore: Upgrade Dependencies fix: Fix ESLint Errors chore: Improve NPM Ignore feat: Add IconInput",
+        "hash": "abddc3536671660987d57fd2d1c8428eb5947890",
+        "created": {
+          "iso": "2020-09-09T07:51:37+00:00",
+          "unix": 1599637897
+        }
+      },
+      {
+        "message": "chore: Upgrade Dependencies fix: Fix ESLint Errors chore: Improve NPM Ignore feat: Add IconInput",
+        "hash": "402fd0e31d7d0e14b92b41035ed598d31a0df1e7",
+        "created": {
+          "iso": "2020-09-09T07:51:37+00:00",
+          "unix": 1599637897
+        }
+      },
+      {
+        "message": "* fix: selectbox, pagination, button, IconInput",
+        "hash": "87b7e00491a205cca8ef5fed7b04c69a7bed8942",
+        "created": {
+          "iso": "2020-09-09T10:48:36+00:00",
+          "unix": 1599648516
+        }
+      },
+      {
+        "message": "* fix: selectbox, pagination, button, IconInput",
+        "hash": "0e49ba0eacc5ebf72919fcf0b928a9a4f3de7741",
+        "created": {
+          "iso": "2020-09-09T10:48:36+00:00",
+          "unix": 1599648516
+        }
+      },
+      {
+        "message": "fix: Improved Typings for Selectbox fix: Add Flex to Selectbox",
+        "hash": "e523b1e433f4d9d018c107593b993dcfae6ff50b",
+        "created": {
+          "iso": "2020-09-09T14:36:11+02:00",
+          "unix": 1599654971
+        }
+      },
+      {
+        "message": "fix: Improved Typings for Selectbox fix: Add Flex to Selectbox",
+        "hash": "a417d8156ffbe0852558900e38f37f9234f36399",
+        "created": {
+          "iso": "2020-09-09T14:36:11+02:00",
+          "unix": 1599654971
+        }
+      },
+      {
+        "message": "fix: Improve CSS for Selectbox with wide content fix: Remove Pagination Margin",
+        "hash": "4a8cfe11662702b24c7546698fbdee84429a1bea",
+        "created": {
+          "iso": "2020-09-09T13:11:16+00:00",
+          "unix": 1599657076
+        }
+      },
+      {
+        "message": "fix: Improve CSS for Selectbox with wide content fix: Remove Pagination Margin",
+        "hash": "f626f61ce4fbd56f6f81159ad6228493b521d474",
+        "created": {
+          "iso": "2020-09-09T13:11:16+00:00",
+          "unix": 1599657076
+        }
+      },
+      {
+        "message": "fix: Do not overwrite Style when custom className is passed",
+        "hash": "f849aa5d438228e1158a82e876f2419e965140c9",
+        "created": {
+          "iso": "2020-09-09T13:55:54+00:00",
+          "unix": 1599659754
+        }
+      },
+      {
+        "message": "fix: Do not overwrite Style when custom className is passed",
+        "hash": "c0bec85983cff93d6eb1e16f7b503ef751b17852",
+        "created": {
+          "iso": "2020-09-09T13:55:54+00:00",
+          "unix": 1599659754
+        }
+      },
+      {
+        "message": "fix: Improve Typings for NavigationRoute StarOnClick Event",
+        "hash": "c7e4ba5427ce951fd9040edeb6fb932cbe4216a9",
+        "created": {
+          "iso": "2020-09-09T16:43:41+02:00",
+          "unix": 1599662621
+        }
+      },
+      {
+        "message": "fix: Improve Typings for NavigationRoute StarOnClick Event",
+        "hash": "664ceec5b2f6e3051721ba8e07521eceead645f8",
+        "created": {
+          "iso": "2020-09-09T16:43:41+02:00",
+          "unix": 1599662621
+        }
+      },
+      {
+        "message": "feat: Add MobX Navigation Support feat: QuickNav feat: Finalized Overview",
+        "hash": "ac1799e69ea03c7b7658f3699e1128d8dbd17572",
+        "created": {
+          "iso": "2020-09-09T15:09:20+00:00",
+          "unix": 1599664160
+        }
+      },
+      {
+        "message": "feat: Add MobX Navigation Support feat: QuickNav feat: Finalized Overview",
+        "hash": "2fc0e86f2cdafde9fa39719c6ba1c2a88304a874",
+        "created": {
+          "iso": "2020-09-09T15:09:20+00:00",
+          "unix": 1599664160
+        }
+      },
+      {
+        "message": "fix: selectbox CloseOnClickInside/Outside",
+        "hash": "4cd85aee430adf1d579f727d6ced7959a331551a",
+        "created": {
+          "iso": "2020-09-09T15:12:26+00:00",
+          "unix": 1599664346
+        }
+      },
+      {
+        "message": "fix: selectbox CloseOnClickInside/Outside",
+        "hash": "086d7e7ed42fa5e6fb5044203ebf131c6dc7732d",
+        "created": {
+          "iso": "2020-09-09T15:12:26+00:00",
+          "unix": 1599664346
+        }
+      },
+      {
+        "message": "Typigns",
+        "hash": "3ec4dc3da5962d62548e163d49679738099b6d12",
+        "created": {
+          "iso": "2020-09-09T17:19:44+02:00",
+          "unix": 1599664784
+        }
+      },
+      {
+        "message": "Typigns",
+        "hash": "f124a548f1e0403b7a52a81f4df683d5568fef81",
+        "created": {
+          "iso": "2020-09-09T17:19:44+02:00",
+          "unix": 1599664784
+        }
+      },
+      {
+        "message": "feat:table, pagination,selectboxes include",
+        "hash": "f89737127b2ca78e739d8917246093c76d8c09dc",
+        "created": {
+          "iso": "2020-09-09T17:28:44+02:00",
+          "unix": 1599665324
+        }
+      },
+      {
+        "message": "feat: Upgrade to new SASS Modules feat: Use dart-sass for storybook",
+        "hash": "d16c4d790b44b9b077d51955beda832ed2e9ff99",
+        "created": {
+          "iso": "2020-09-10T13:36:27+02:00",
+          "unix": 1599737787
+        }
+      },
+      {
+        "message": "feat: Upgrade to new SASS Modules feat: Use dart-sass for storybook",
+        "hash": "2d27235cf2703dfcd210845bdf2c97848afdacbb",
+        "created": {
+          "iso": "2020-09-10T13:36:27+02:00",
+          "unix": 1599737787
+        }
+      },
+      {
+        "message": "feat: Use CSS Modules",
+        "hash": "4d6eb9ebd05d9edaadf2a0ee476fca4a168160e7",
+        "created": {
+          "iso": "2020-09-11T12:07:02+00:00",
+          "unix": 1599826022
+        }
+      },
+      {
+        "message": "feat: Use CSS Modules",
+        "hash": "f8dd9f378a24c9904507d533e30fe00adb1ddf69",
+        "created": {
+          "iso": "2020-09-11T12:07:02+00:00",
+          "unix": 1599826022
+        }
+      },
+      {
+        "message": "feat!: Use CSS Modules feat: Upgrade to stable comp lib",
+        "hash": "e117f28873d23165fbbf5253b4c9496e63bae274",
+        "created": {
+          "iso": "2020-09-11T12:25:40+00:00",
+          "unix": 1599827140
+        }
+      },
+      {
+        "message": "feat!: Use CSS Modules feat: Upgrade to stable comp lib",
+        "hash": "2af28706983ad981ce73dfa9e696606a702c545c",
+        "created": {
+          "iso": "2020-09-11T12:25:40+00:00",
+          "unix": 1599827140
+        }
+      },
+      {
+        "message": "feat: Add Modal Component",
+        "hash": "485c5807cf950b8fa54c773858eeb0666963b910",
+        "created": {
+          "iso": "2020-09-14T08:45:07+00:00",
+          "unix": 1600073107
+        }
+      },
+      {
+        "message": "feat: Add Modal Component",
+        "hash": "06017590aba348e21af7be389d9a44b42dc826ea",
+        "created": {
+          "iso": "2020-09-14T08:45:07+00:00",
+          "unix": 1600073107
+        }
+      },
+      {
+        "message": "fix: Table Styles were not converted to Modules fix: Storybook WebPack Config",
+        "hash": "f44c95a430fab53b2298661867af3be2b813f2d0",
+        "created": {
+          "iso": "2020-09-14T09:04:03+00:00",
+          "unix": 1600074243
+        }
+      },
+      {
+        "message": "fix: Table Styles were not converted to Modules fix: Storybook WebPack Config",
+        "hash": "46c5f562f8f6607819ea732689dd2e00f7f3a6bc",
+        "created": {
+          "iso": "2020-09-14T09:04:03+00:00",
+          "unix": 1600074243
+        }
+      },
+      {
+        "message": "chore: Lerna init",
+        "hash": "3a71d752525b37e2654c56700e8b11c5e8f0a2ae",
+        "created": {
+          "iso": "2020-09-14T15:03:36+02:00",
+          "unix": 1600088616
+        }
+      },
+      {
+        "message": "Merge branch 'feat/overview' of bitbucket.org:madsack-rnd/sperrvermerke",
+        "hash": "0fb0a44981ef8971296a59c0537ddfb6ac8090fb",
+        "created": {
+          "iso": "2020-09-14T15:53:35+02:00",
+          "unix": 1600091615
+        }
+      },
+      {
+        "message": "chore: Merge everything in master as we move to monorepo",
+        "hash": "65d6bf23e9b4d5dc71df9d7b7093eaae0864fed8",
+        "created": {
+          "iso": "2020-09-14T15:55:04+02:00",
+          "unix": 1600091704
+        }
+      },
+      {
+        "message": "re-init all the repos",
+        "hash": "e2f2030dc2004f5db070bf4434cdf82e3651e2ec",
+        "created": {
+          "iso": "2020-09-14T16:02:49+02:00",
+          "unix": 1600092169
+        }
+      },
+      {
+        "message": "feat: First Commit to the new Monorepo",
+        "hash": "33535c9d484b90e66bb77cbae501e6df5215ee31",
+        "created": {
+          "iso": "2020-09-14T16:42:40+02:00",
+          "unix": 1600094560
+        }
+      },
+      {
+        "message": "Fix/table",
+        "hash": "f76f2e57e8c2ca7668a3bf5fa4b47ee2ad0c4af1",
+        "created": {
+          "iso": "2020-09-15T13:31:21+02:00",
+          "unix": 1600169481
+        }
+      },
+      {
+        "message": "feat: Add Support for new SASS @use",
+        "hash": "44642f127c589b80ee36cdbfd14360389d68e6b5",
+        "created": {
+          "iso": "2020-09-15T13:45:26+02:00",
+          "unix": 1600170326
+        }
+      },
+      {
+        "message": "Add basic GitHub Actions, Clean Up Dependencies",
+        "hash": "c5dfde9f59de2bd20c1e44788ede09c46e022faa",
+        "created": {
+          "iso": "2020-09-17T13:57:03+02:00",
+          "unix": 1600343823
+        }
+      },
+      {
+        "message": "feat: display owl for users working at night",
+        "hash": "6e00b2ccd77ea143bddc8f612595e6b4917e7c0b",
+        "created": {
+          "iso": "2020-09-17T14:34:18+02:00",
+          "unix": 1600346058
+        }
+      },
+      {
+        "message": "fix: night owl time",
+        "hash": "d5221c974b3346dcf85d06257faf920e3e7e656b",
+        "created": {
+          "iso": "2020-09-17T14:38:01+02:00",
+          "unix": 1600346281
+        }
+      },
+      {
+        "message": "Merge branch 'master' into night-owl",
+        "hash": "54f6408d8e94193ac324cd51abfda143f13d7f01",
+        "created": {
+          "iso": "2020-09-17T14:59:13+02:00",
+          "unix": 1600347553
+        }
+      },
+      {
+        "message": "Merge pull request #8 from RedaktionsNetzwerk-Deutschland/night-owl",
+        "hash": "b4eee5bed9761e2f8015d410c9f8c9f1b47fe6bb",
+        "created": {
+          "iso": "2020-09-17T15:29:27+02:00",
+          "unix": 1600349367
+        }
+      },
+      {
+        "message": "feat(qa): begin Q&A frontend",
+        "hash": "14b69c2e81565a278cdaed3b65eb7fa29be54f3f",
+        "created": {
+          "iso": "2020-09-21T11:44:07+02:00",
+          "unix": 1600681447
+        }
+      },
+      {
+        "message": "chore(actions): Dry deployment, fix Labeler",
+        "hash": "20d9c29b81bc3049ae06efde55315e1989b7f23b",
+        "created": {
+          "iso": "2020-09-25T10:22:34+02:00",
+          "unix": 1601022154
+        }
+      },
+      {
+        "message": "v1.0.4",
+        "hash": "b7c8f8fdcade6f35b3fa7042bdcb1a177c672ced",
+        "created": {
+          "iso": "2020-09-25T08:23:34+00:00",
+          "unix": 1601022214
+        }
+      },
+      {
+        "message": "fix(master): add new styles for scrollbar",
+        "hash": "71af5cce5dceff552a2d3b57fe5ec7a747c3f73a",
+        "created": {
+          "iso": "2020-09-30T14:13:30+02:00",
+          "unix": 1601468010
+        }
+      },
+      {
+        "message": "fix(components): improve toast types and allow custom className",
+        "hash": "217a9853c1177128eddde16843e0355981048da9",
+        "created": {
+          "iso": "2020-09-30T14:14:44+02:00",
+          "unix": 1601468084
+        }
+      },
+      {
+        "message": "fix(master): fix sidebar textstyles",
+        "hash": "da87e13a8c7ae559edc2ade6a12134cdb319bafc",
+        "created": {
+          "iso": "2020-09-30T14:15:11+02:00",
+          "unix": 1601468111
+        }
+      },
+      {
+        "message": "chore(master): remove debug statements from store",
+        "hash": "37dc191ef4caffff1a62bf73299016a902e6701f",
+        "created": {
+          "iso": "2020-09-30T14:15:28+02:00",
+          "unix": 1601468128
+        }
+      },
+      {
+        "message": "feat(qa): add skeleton for AnswerQuestion screen",
+        "hash": "eb34ddb817a420f0bc639835bbcb749195946c35",
+        "created": {
+          "iso": "2020-09-30T14:16:44+02:00",
+          "unix": 1601468204
+        }
+      },
+      {
+        "message": "feat(um): upgrade user-management to new components and monorepo scheme",
+        "hash": "83caea18e72fc1b7dde4549785303296a32cd820",
+        "created": {
+          "iso": "2020-09-30T14:17:16+02:00",
+          "unix": 1601468236
+        }
+      },
+      {
+        "message": "chore(global): cleanup dependencies",
+        "hash": "4f7e75038d13686c05ca3c7bcff66cffde3f2b6d",
+        "created": {
+          "iso": "2020-09-30T14:17:40+02:00",
+          "unix": 1601468260
+        }
+      },
+      {
+        "message": "feat(global): small improvements",
+        "hash": "33afa29cdd6aab069a103bed234ce390f315ada0",
+        "created": {
+          "iso": "2020-09-30T14:20:22+02:00",
+          "unix": 1601468422
+        }
+      },
+      {
+        "message": "fix(qa): add api client TypeScript reference",
+        "hash": "3739418f90fef587bb033fbde9b4433b6e8c7ec8",
+        "created": {
+          "iso": "2020-09-30T16:03:53+02:00",
+          "unix": 1601474633
+        }
+      },
+      {
+        "message": "chore(global): fix internal dependencies and TypeScript build configuration",
+        "hash": "b15ba8134fc8d32d516e11c1f15aec0eb3cd8581",
+        "created": {
+          "iso": "2020-10-01T12:50:36+02:00",
+          "unix": 1601549436
+        }
+      },
+      {
+        "message": "build(nginx): deletion-requests tests",
+        "hash": "9e8a85949e03eec43686b9833331a8805bf01c72",
+        "created": {
+          "iso": "2020-10-01T14:57:54+02:00",
+          "unix": 1601557074
+        }
+      },
+      {
+        "message": "build(nginx): master tests",
+        "hash": "7477ff7c354d05cd77b3cc2db65be19ae4f10112",
+        "created": {
+          "iso": "2020-10-01T15:53:28+02:00",
+          "unix": 1601560408
+        }
+      },
+      {
+        "message": "build(nginx): user-management tests",
+        "hash": "4d4fd81482f55798d0be51f9f992129586e55aec",
+        "created": {
+          "iso": "2020-10-01T15:53:49+02:00",
+          "unix": 1601560429
+        }
+      },
+      {
+        "message": "build(ci): run testing in matrix",
+        "hash": "bca2f3fbbdc2e14d99777ac94a0aae995d079ae3",
+        "created": {
+          "iso": "2020-10-01T15:57:19+02:00",
+          "unix": 1601560639
+        }
+      },
+      {
+        "message": "ci: building deployment",
+        "hash": "501216e3cb27fd14b469dbe94385a8e3116e2062",
+        "created": {
+          "iso": "2020-10-05T12:50:37+02:00",
+          "unix": 1601895037
+        }
+      },
+      {
+        "message": "Feat/overview (#20)",
+        "hash": "ad31e38e799c406f8de50d91a5ca7dc95a003a13",
+        "created": {
+          "iso": "2020-10-05T13:25:04+02:00",
+          "unix": 1601897104
+        }
+      },
+      {
+        "message": "v1.0.5",
+        "hash": "4b1c4b70a38e582f02ddad9f0e5bd4cdb7586436",
+        "created": {
+          "iso": "2020-10-05T12:11:48+00:00",
+          "unix": 1601899908
+        }
+      },
+      {
+        "message": "v1.0.5",
+        "hash": "ac7de539eeb0de88482d56fea6f96b75a55a5efd",
+        "created": {
+          "iso": "2020-10-05T12:46:03+00:00",
+          "unix": 1601901963
+        }
+      },
+      {
+        "message": "Merge branch 'master' into build/ecs_deployment",
+        "hash": "283a7640ad1c7daa30415ee3ecad5ed6a7d275f6",
+        "created": {
+          "iso": "2020-10-05T14:47:17+02:00",
+          "unix": 1601902037
+        }
+      },
+      {
+        "message": "v1.0.6",
+        "hash": "c3460715676292b120c37a0f51b2fc67bbeb5c3a",
+        "created": {
+          "iso": "2020-10-05T12:47:58+00:00",
+          "unix": 1601902078
+        }
+      },
+      {
+        "message": "ci: ECS deployment",
+        "hash": "ce20cd50941a23eb30fb47def7ba5c040a88dd1a",
+        "created": {
+          "iso": "2020-10-05T14:50:47+02:00",
+          "unix": 1601902247
+        }
+      },
+      {
+        "message": "Merge remote-tracking branch 'origin/build/ecs_deployment' into build/ecs_deployment",
+        "hash": "2bde5bf449b58053f88b461cf455e3002f38d668",
+        "created": {
+          "iso": "2020-10-05T14:51:42+02:00",
+          "unix": 1601902302
+        }
+      },
+      {
+        "message": "Merge pull request #24 from RedaktionsNetzwerk-Deutschland/build/ecs_deployment",
+        "hash": "8787015216602c68eaee41d02e25c26aac086580",
+        "created": {
+          "iso": "2020-10-05T14:59:01+02:00",
+          "unix": 1601902741
+        }
+      },
+      {
+        "message": "ci: stupid mistakes :(",
+        "hash": "7d1acc1e1f83424ed42259519f5bac719821af25",
+        "created": {
+          "iso": "2020-10-05T15:01:31+02:00",
+          "unix": 1601902891
+        }
+      },
+      {
+        "message": "Merge pull request #26 from RedaktionsNetzwerk-Deutschland/build/ecs_deployment",
+        "hash": "860a7d0da01d3b8e65fb1f3454ded9411d85d48f",
+        "created": {
+          "iso": "2020-10-05T15:08:45+02:00",
+          "unix": 1601903325
+        }
+      },
+      {
+        "message": "v1.0.7",
+        "hash": "de0a0b677095d10f53b67014e1463ee45957338a",
+        "created": {
+          "iso": "2020-10-05T13:09:42+00:00",
+          "unix": 1601903382
+        }
+      },
+      {
+        "message": "fix: downgrade MobX version to be compatible again (#27)",
+        "hash": "ab08ebb522aa1bfe45e2a3c8ba30078412119170",
+        "created": {
+          "iso": "2020-10-05T15:37:39+02:00",
+          "unix": 1601905059
+        }
+      },
+      {
+        "message": "v1.0.8",
+        "hash": "dc55e2e99dea0f44fb682eacce6f56bba432b1b3",
+        "created": {
+          "iso": "2020-10-05T13:38:24+00:00",
+          "unix": 1601905104
+        }
+      },
+      {
+        "message": "refactor: fixing some eslint-warnings (#25)",
+        "hash": "29466d4943087c86080029acf0975502ef803a85",
+        "created": {
+          "iso": "2020-10-05T15:53:08+02:00",
+          "unix": 1601905988
+        }
+      },
+      {
+        "message": "v1.0.9",
+        "hash": "4fee4d4019ff4f0ae35166b064f2296bf48c368b",
+        "created": {
+          "iso": "2020-10-05T13:54:00+00:00",
+          "unix": 1601906040
+        }
+      },
+      {
+        "message": "refactor: use different http code for health check",
+        "hash": "79721252f95421305e71b1d718ce59484b2fd22b",
+        "created": {
+          "iso": "2020-10-08T12:38:40+02:00",
+          "unix": 1602153520
+        }
+      },
+      {
+        "message": "refactor: use different http code for health check",
+        "hash": "02dd968536e82a80cd46c331435ce69e4ea3b51d",
+        "created": {
+          "iso": "2020-10-08T12:44:27+02:00",
+          "unix": 1602153867
+        }
+      },
+      {
+        "message": "Merge pull request #29 from RedaktionsNetzwerk-Deutschland/change-http-code-for-healthcheck",
+        "hash": "4d5e1e954b8bce69196f1c235ecd97b77ac0f891",
+        "created": {
+          "iso": "2020-10-08T13:12:04+02:00",
+          "unix": 1602155524
+        }
+      },
+      {
+        "message": "v1.0.10",
+        "hash": "19e65b57f44323a58f4eede2f6796bfa98b68d22",
+        "created": {
+          "iso": "2020-10-08T11:15:36+00:00",
+          "unix": 1602155736
+        }
+      },
+      {
+        "message": "build(ci): splitting workflows",
+        "hash": "e6219aee180b99ffcfc764f73954328ca81fd583",
+        "created": {
+          "iso": "2020-10-08T17:19:47+02:00",
+          "unix": 1602170387
+        }
+      },
+      {
+        "message": "Merge pull request #31 from RedaktionsNetzwerk-Deutschland/build/cleaning_workflows",
+        "hash": "c107c43da818e4a7d2ecd27175316e3f48412957",
+        "created": {
+          "iso": "2020-10-08T18:19:52+02:00",
+          "unix": 1602173992
+        }
+      },
+      {
+        "message": "v1.0.11",
+        "hash": "2d32d43cea9396021e86ce7332053dd7741fbd04",
+        "created": {
+          "iso": "2020-10-08T16:20:32+00:00",
+          "unix": 1602174032
+        }
+      },
+      {
+        "message": "build(ci): fixing deprecation warning",
+        "hash": "2f0fa4b9c50af73a9a9ebd0f1007cbe9067fd396",
+        "created": {
+          "iso": "2020-10-09T11:00:47+02:00",
+          "unix": 1602234047
+        }
+      },
+      {
+        "message": "Merge pull request #34 from RedaktionsNetzwerk-Deutschland/build/deprecated_set_env",
+        "hash": "f2f6caa6c32dbc3c8b71a395bc3cb75ab0a873de",
+        "created": {
+          "iso": "2020-10-09T11:54:50+02:00",
+          "unix": 1602237290
+        }
+      },
+      {
+        "message": "v1.0.12",
+        "hash": "7d4cee61c054ab8bca144db1068f9d6a80555b99",
+        "created": {
+          "iso": "2020-10-09T09:55:30+00:00",
+          "unix": 1602237330
+        }
+      },
+      {
+        "message": "build(ci): better time controlled ECS wait",
+        "hash": "0afc47b4f842facd8c0fcaa651da9ef39040179d",
+        "created": {
+          "iso": "2020-10-09T13:02:05+02:00",
+          "unix": 1602241325
+        }
+      },
+      {
+        "message": "Merge pull request #36 from RedaktionsNetzwerk-Deutschland/build/deprecated_set_env",
+        "hash": "aadbf113f09e979f5669624583715f8b63523f84",
+        "created": {
+          "iso": "2020-10-09T13:02:48+02:00",
+          "unix": 1602241368
+        }
+      },
+      {
+        "message": "build(ci): YAML typo",
+        "hash": "19324543e77bf552576b5b446019eacf69b7daaa",
+        "created": {
+          "iso": "2020-10-09T13:05:43+02:00",
+          "unix": 1602241543
+        }
+      },
+      {
+        "message": "Merge pull request #37 from RedaktionsNetzwerk-Deutschland/build/deprecated_set_env",
+        "hash": "d127ab18ee2505936529338aef2434f578d3f246",
+        "created": {
+          "iso": "2020-10-09T13:06:18+02:00",
+          "unix": 1602241578
+        }
+      },
+      {
+        "message": "v1.0.13",
+        "hash": "34119f7a85dc6ad76f808b593f37c466fa7605f2",
+        "created": {
+          "iso": "2020-10-09T11:07:21+00:00",
+          "unix": 1602241641
+        }
+      },
+      {
+        "message": "build(ci): using new ENVs (#40)",
+        "hash": "cfeb31e306c306d60a659828680680e2d28e17c6",
+        "created": {
+          "iso": "2020-10-19T13:31:28+02:00",
+          "unix": 1603107088
+        }
+      },
+      {
+        "message": "v1.0.14",
+        "hash": "47427108bdd7987f24446191740f4997835fabf8",
+        "created": {
+          "iso": "2020-10-19T11:32:16+00:00",
+          "unix": 1603107136
+        }
+      },
+      {
+        "message": "test(components): add tests to the component library",
+        "hash": "23801dc05aa4548d53d881213b7fa2275b066e84",
+        "created": {
+          "iso": "2020-10-21T13:07:24+02:00",
+          "unix": 1603278444
+        }
+      },
+      {
+        "message": "v1.0.15",
+        "hash": "13cdad4e573d91991a5f8f0031d1733a813656b2",
+        "created": {
+          "iso": "2020-10-21T11:08:12+00:00",
+          "unix": 1603278492
+        }
+      },
+      {
+        "message": "chore(actions): Add ESLint ReviewDog and StyleLint",
+        "hash": "d9ab43940c5134af7d9ba635053a72b799d2e9cc",
+        "created": {
+          "iso": "2020-10-26T10:38:14+01:00",
+          "unix": 1603705094
+        }
+      },
+      {
+        "message": "fix(components): adjust height for inputs",
+        "hash": "b38951575dff5531611fdda8933dbef295a0ef48",
+        "created": {
+          "iso": "2020-10-26T10:39:38+01:00",
+          "unix": 1603705178
+        }
+      },
+      {
+        "message": "chop(components): add esc to close modal in storybook",
+        "hash": "5f43722082f7a44dd3c15ef839655846bd9b9c2a",
+        "created": {
+          "iso": "2020-10-26T10:40:18+01:00",
+          "unix": 1603705218
+        }
+      },
+      {
+        "message": "feat: Add support for user verifications",
+        "hash": "36f06e1a6dd2dbffda226ecbab88fe22017406fd",
+        "created": {
+          "iso": "2020-10-26T17:55:58+01:00",
+          "unix": 1603731358
+        }
+      },
+      {
+        "message": "v1.1.0",
+        "hash": "6d29fe1f29b016f31fb85a6f9893bcb1a18eda08",
+        "created": {
+          "iso": "2020-10-26T16:56:52+00:00",
+          "unix": 1603731412
+        }
+      },
+      {
+        "message": "v1.1.1",
+        "hash": "1c5953852e50e6ea6dba7b220ea51bd52c7e4d55",
+        "created": {
+          "iso": "2020-10-27T10:07:14+00:00",
+          "unix": 1603793234
+        }
+      },
+      {
+        "message": "Feat/filterbox (#47)",
+        "hash": "fb96d6ecf98e27d877a7498ed0e0102d830c0f69",
+        "created": {
+          "iso": "2020-10-28T11:36:40+01:00",
+          "unix": 1603881400
+        }
+      },
+      {
+        "message": "v1.1.2",
+        "hash": "2b1fd1103cd34a642f414111ed972991de53799e",
+        "created": {
+          "iso": "2020-10-28T10:37:25+00:00",
+          "unix": 1603881445
+        }
+      },
+      {
+        "message": "fix: enable routing from frontend to master or from frontend to frontend",
+        "hash": "26e3c0b2324f84fe5d33e6cb263b05468aaa64d4",
+        "created": {
+          "iso": "2020-11-02T09:33:45+01:00",
+          "unix": 1604306025
+        }
+      },
+      {
+        "message": "v1.1.3",
+        "hash": "a74052e6611bb11cb8121916aa9c1925af4a7a6e",
+        "created": {
+          "iso": "2020-11-02T08:34:30+00:00",
+          "unix": 1604306070
+        }
+      },
+      {
+        "message": "fix: remove resources from micro frontend on unmount to prevent style overide",
+        "hash": "7f08b01130ab5d3724719282f4df5857b12a8dcf",
+        "created": {
+          "iso": "2020-11-03T13:57:31+01:00",
+          "unix": 1604408251
+        }
+      },
+      {
+        "message": "v1.1.4",
+        "hash": "7eb92056f7dfce44fc39a0afab528592d42a203e",
+        "created": {
+          "iso": "2020-11-03T12:58:13+00:00",
+          "unix": 1604408293
+        }
+      },
+      {
+        "message": "ci: add bot token to GitHub Checkout Action and lerna command",
+        "hash": "fbc648b85125b7596c77cdb8ec6a02cf04772883",
+        "created": {
+          "iso": "2020-11-09T13:06:46+01:00",
+          "unix": 1604923606
+        }
+      },
+      {
+        "message": "v1.1.5",
+        "hash": "b3e9007e58e0bfce344f081d590661b40d0b9328",
+        "created": {
+          "iso": "2020-11-09T12:23:23+00:00",
+          "unix": 1604924603
+        }
+      },
+      {
+        "message": "v1.1.6",
+        "hash": "4211b9248e61b3b0ffb97b25abeff337304e41f0",
+        "created": {
+          "iso": "2020-11-09T12:24:10+00:00",
+          "unix": 1604924650
+        }
+      },
+      {
+        "message": "fix: improve header dropdown menu",
+        "hash": "311363b8183c5bad666646d11616feaa02855fea",
+        "created": {
+          "iso": "2020-11-09T13:58:55+01:00",
+          "unix": 1604926735
+        }
+      },
+      {
+        "message": "hotfix: remove git configuration step",
+        "hash": "04a4d49cb8f9a4a226ccf39fb7a633600d6e252c",
+        "created": {
+          "iso": "2020-11-09T14:08:30+01:00",
+          "unix": 1604927310
+        }
+      },
+      {
+        "message": "fix: re-initialize themeLoader after login",
+        "hash": "b91caccf5a04b3d1571345850646bc7938c4ecec",
+        "created": {
+          "iso": "2020-11-09T15:48:52+01:00",
+          "unix": 1604933332
+        }
+      },
+      {
+        "message": "v1.1.7",
+        "hash": "0d187386f1b3d74bae28e696293d1d64262839a9",
+        "created": {
+          "iso": "2020-11-09T15:03:06+00:00",
+          "unix": 1604934186
+        }
+      },
+      {
+        "message": "v1.1.8",
+        "hash": "489b69fb637426ad1853229deb33147241d54648",
+        "created": {
+          "iso": "2020-11-09T15:04:01+00:00",
+          "unix": 1604934241
+        }
+      },
+      {
+        "message": "fix: create a separate state so the email does not update",
+        "hash": "c45362c7e6c007c61df2d256ee53ae409c4c3365",
+        "created": {
+          "iso": "2020-11-09T16:11:58+01:00",
+          "unix": 1604934718
+        }
+      },
+      {
+        "message": "build(nginx): accept any folder and deliver index.html (#65)",
+        "hash": "9274a8aa88a9a268fe7dd6f0af8926314ce9716c",
+        "created": {
+          "iso": "2020-11-10T07:51:17+01:00",
+          "unix": 1604991077
+        }
+      },
+      {
+        "message": "v1.1.9",
+        "hash": "019d1f38542a4b3bd573ba6ad13966230a99595b",
+        "created": {
+          "iso": "2020-11-10T06:51:54+00:00",
+          "unix": 1604991114
+        }
+      },
+      {
+        "message": "fix: create a separate state so the email does not update",
+        "hash": "8a2ddbdba59a9563d4a689176b320326669a2f41",
+        "created": {
+          "iso": "2020-11-16T10:45:54+01:00",
+          "unix": 1605519954
+        }
+      },
+      {
+        "message": "v1.1.10",
+        "hash": "1eb68ffd68b20c069259176fd5aff916631c0920",
+        "created": {
+          "iso": "2020-11-16T09:46:32+00:00",
+          "unix": 1605519992
+        }
+      },
+      {
+        "message": "refactor: clean up styles, remove not needed files",
+        "hash": "bc29581227f9ec0815727d513d812e567d5fc798",
+        "created": {
+          "iso": "2020-11-16T13:02:33+01:00",
+          "unix": 1605528153
+        }
+      },
+      {
+        "message": "v1.1.11",
+        "hash": "a59677a182d82bad052f219cf07363eaa7080c25",
+        "created": {
+          "iso": "2020-11-16T12:03:09+00:00",
+          "unix": 1605528189
+        }
+      },
+      {
+        "message": "Build/cdk migration (#71)",
+        "hash": "182424ab20728f843f267779dbc5649e6184f64b",
+        "created": {
+          "iso": "2020-11-23T13:44:43+01:00",
+          "unix": 1606135483
+        }
+      },
+      {
+        "message": "v1.1.12",
+        "hash": "d9dd45afd28b356b7da4ec67f3055ef2d8494e75",
+        "created": {
+          "iso": "2020-11-23T12:45:31+00:00",
+          "unix": 1606135531
+        }
+      },
+      {
+        "message": "feat(devtools): add devtools frontend",
+        "hash": "48d8ea19dae5d5df6e489012ff24e51ddab7c594",
+        "created": {
+          "iso": "2020-11-24T13:38:03+01:00",
+          "unix": 1606221483
+        }
+      },
+      {
+        "message": "v1.2.0",
+        "hash": "b151ce138428d9f701c3732e0e277e7c818846d5",
+        "created": {
+          "iso": "2020-11-24T12:39:09+00:00",
+          "unix": 1606221549
+        }
+      },
+      {
+        "message": "fix: styles",
+        "hash": "12242dbfccfc167fb1e316347cb36a410db3c93e",
+        "created": {
+          "iso": "2020-11-24T14:20:39+01:00",
+          "unix": 1606224039
+        }
+      },
+      {
+        "message": "v1.2.1",
+        "hash": "6bac579bcc6fc3cda1cc22a843eb2d01ebc1d135",
+        "created": {
+          "iso": "2020-11-24T13:21:20+00:00",
+          "unix": 1606224080
+        }
+      },
+      {
+        "message": "Build/devtools on ecs (#73)",
+        "hash": "a9dca565266336fda6e32fd89c074412f27f30a5",
+        "created": {
+          "iso": "2020-11-26T09:38:02+01:00",
+          "unix": 1606379882
+        }
+      },
+      {
+        "message": "v1.2.3",
+        "hash": "94a69ae0513e078004cf3cec581e92b139b53cda",
+        "created": {
+          "iso": "2020-11-26T08:38:42+00:00",
+          "unix": 1606379922
+        }
+      },
+      {
+        "message": "Feat/add dashed box (#69)",
+        "hash": "cc0131da05391ffa562a2d5791e3d5709abd4e0f",
+        "created": {
+          "iso": "2020-11-30T14:50:27+01:00",
+          "unix": 1606744227
+        }
+      },
+      {
+        "message": "v1.2.4",
+        "hash": "86e2943cc60f0d6c41f7b3a5155d193615ee29e7",
+        "created": {
+          "iso": "2020-11-30T13:51:09+00:00",
+          "unix": 1606744269
+        }
+      },
+      {
+        "message": "feat(um): permission feature",
+        "hash": "1ff1cdab9702dcfbb0f16c3e3d682ef68cf69ef7",
+        "created": {
+          "iso": "2020-11-30T17:57:20+01:00",
+          "unix": 1606755440
+        }
+      },
+      {
+        "message": "v1.3.0",
+        "hash": "fcc7c374f6f560a930d9fb9ae397d2b01a165c85",
+        "created": {
+          "iso": "2020-11-30T16:58:08+00:00",
+          "unix": 1606755488
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.1",
+    "created": {
+      "iso": "2020-09-17 16:17:13 +0000",
+      "unix": 1600359433
+    },
+    "commits": [
+      {
+        "message": "chore(actions): Add basic GitHub Actions chore(dev): Add watch scripts for frontends and packages",
+        "hash": "891517b33feead3d28a9baf33f8ba96579e4de8d",
+        "created": {
+          "iso": "2020-09-17T11:24:52+02:00",
+          "unix": 1600334692
+        }
+      },
+      {
+        "message": "chore(tests): Remove E2E Tests as they were outdated and not needed currently chore(actions): Add lerna build step to PR",
+        "hash": "bb7a214dfd9dcfea9787bd4b1b6e4a2d06aa63af",
+        "created": {
+          "iso": "2020-09-17T12:28:59+02:00",
+          "unix": 1600338539
+        }
+      },
+      {
+        "message": "chore(actions): Switch to Gemfury Deploy Token Secret",
+        "hash": "a27b6583eb8d41b482045f7f9b8ff8ce9e28919f",
+        "created": {
+          "iso": "2020-09-17T12:34:47+02:00",
+          "unix": 1600338887
+        }
+      },
+      {
+        "message": "chore(actions): Use lerna via npx",
+        "hash": "d009f7a16e2ff1f89bcf12920e0fa6ee35414e7f",
+        "created": {
+          "iso": "2020-09-17T12:38:10+02:00",
+          "unix": 1600339090
+        }
+      },
+      {
+        "message": "chore(build): Do not break on warning if CI = true chore(build): Add FAIL_ON_WARNING Environment Variable to define if we should break the build if there are warnings",
+        "hash": "e6ce23454de103d5aa18e30572d422004010d3cd",
+        "created": {
+          "iso": "2020-09-17T12:46:23+02:00",
+          "unix": 1600339583
+        }
+      },
+      {
+        "message": "chore(actions): Pin ESLint to v7",
+        "hash": "83f95622aa7c2e41abc5dca3a4dcc00e6f69bbc4",
+        "created": {
+          "iso": "2020-09-17T13:12:43+02:00",
+          "unix": 1600341163
+        }
+      },
+      {
+        "message": "chore: Removed accidentally committed files",
+        "hash": "90b19416124679905eec9f039ee81a89d56315b7",
+        "created": {
+          "iso": "2020-09-17T13:37:42+02:00",
+          "unix": 1600342662
+        }
+      },
+      {
+        "message": "Merge branch 'master' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "105bf8631990447951fad5ebb4ebfad484364a33",
+        "created": {
+          "iso": "2020-09-17T15:03:44+02:00",
+          "unix": 1600347824
+        }
+      },
+      {
+        "message": "chore(actions): Fix Typo in Labeler chore(actions): Improve Cache",
+        "hash": "8cd7ab0fd645dc0fbea1b39071663859b91ab4ad",
+        "created": {
+          "iso": "2020-09-17T15:12:54+02:00",
+          "unix": 1600348374
+        }
+      },
+      {
+        "message": "test: just testing things. DO NOT MERGE.",
+        "hash": "e768ff86e47711e5bfb80711e3cb9e7215f987e4",
+        "created": {
+          "iso": "2020-09-17T15:24:03+02:00",
+          "unix": 1600349043
+        }
+      },
+      {
+        "message": "chore: Reset Versions to 0.0.0",
+        "hash": "e0d11200ec45ce88a1fda69da8372194bd018d50",
+        "created": {
+          "iso": "2020-09-17T15:27:04+02:00",
+          "unix": 1600349224
+        }
+      },
+      {
+        "message": "reset um",
+        "hash": "f869947c7384623821d948955d85ae930de5a7ce",
+        "created": {
+          "iso": "2020-09-17T15:27:36+02:00",
+          "unix": 1600349256
+        }
+      },
+      {
+        "message": "reset master version",
+        "hash": "2609af3d15c7f92a007864c4cf3a0bdb110bcfed",
+        "created": {
+          "iso": "2020-09-17T15:28:17+02:00",
+          "unix": 1600349297
+        }
+      },
+      {
+        "message": "v0.1.0",
+        "hash": "b6ec5cbd8eda0a5994bb3c5b709aed67559389e4",
+        "created": {
+          "iso": "2020-09-17T15:28:33+02:00",
+          "unix": 1600349313
+        }
+      },
+      {
+        "message": "chore(actions): Add more actions",
+        "hash": "ab112f08e809f65699eb4b17a086c5aeeb3d3227",
+        "created": {
+          "iso": "2020-09-17T17:27:42+02:00",
+          "unix": 1600356462
+        }
+      },
+      {
+        "message": "chore(actions): Improve Master Push",
+        "hash": "b2ad290e09d21998ea382d0eae8fa9e17f9cbcb6",
+        "created": {
+          "iso": "2020-09-17T18:10:57+02:00",
+          "unix": 1600359057
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "07920b203461218f97ed7cc3b5f0e10a47aab53b",
+        "created": {
+          "iso": "2020-09-17T18:13:00+02:00",
+          "unix": 1600359180
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "27bc695fa9b2b2eb4aa354bf42a27643353d1cd2",
+        "created": {
+          "iso": "2020-09-17T18:13:55+02:00",
+          "unix": 1600359235
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "e330767be27e0ae13cf0ddd0cc777e60ab6f866e",
+        "created": {
+          "iso": "2020-09-17T18:16:03+02:00",
+          "unix": 1600359363
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.2",
+    "created": {
+      "iso": "2020-09-17 16:22:37 +0000",
+      "unix": 1600359757
+    },
+    "commits": [
+      {
+        "message": "feat: display owl for users working at night",
+        "hash": "6e00b2ccd77ea143bddc8f612595e6b4917e7c0b",
+        "created": {
+          "iso": "2020-09-17T14:34:18+02:00",
+          "unix": 1600346058
+        }
+      },
+      {
+        "message": "fix: night owl time",
+        "hash": "d5221c974b3346dcf85d06257faf920e3e7e656b",
+        "created": {
+          "iso": "2020-09-17T14:38:01+02:00",
+          "unix": 1600346281
+        }
+      },
+      {
+        "message": "Merge branch 'master' into night-owl",
+        "hash": "54f6408d8e94193ac324cd51abfda143f13d7f01",
+        "created": {
+          "iso": "2020-09-17T14:59:13+02:00",
+          "unix": 1600347553
+        }
+      },
+      {
+        "message": "Merge pull request #8 from RedaktionsNetzwerk-Deutschland/night-owl",
+        "hash": "b4eee5bed9761e2f8015d410c9f8c9f1b47fe6bb",
+        "created": {
+          "iso": "2020-09-17T15:29:27+02:00",
+          "unix": 1600349367
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "b50843e78e9f28ca76feb8eb333879c3c6f61c07",
+        "created": {
+          "iso": "2020-09-17T18:21:03+02:00",
+          "unix": 1600359663
+        }
+      },
+      {
+        "message": "Merge branch 'master' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "ca5348da486aaafda8017a29c4eb6e57196a454a",
+        "created": {
+          "iso": "2020-09-17T18:21:14+02:00",
+          "unix": 1600359674
+        }
+      },
+      {
+        "message": "Merge branch 'chore/actions' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "958e5529f75a14d269d9a44568714550ca01d497",
+        "created": {
+          "iso": "2020-09-17T18:21:26+02:00",
+          "unix": 1600359686
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.3",
+    "created": {
+      "iso": "2020-09-17 16:38:15 +0000",
+      "unix": 1600360695
+    },
+    "commits": [
+      {
+        "message": "chore(actions): Nearly done",
+        "hash": "a3b2119d2beb181f3cb843af4fb5a52166b8b00e",
+        "created": {
+          "iso": "2020-09-17T18:30:58+02:00",
+          "unix": 1600360258
+        }
+      },
+      {
+        "message": "Merge branch 'chore/actions' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "2f38eb99154e2fe04034615f4b6a2e352d04b840",
+        "created": {
+          "iso": "2020-09-17T18:31:20+02:00",
+          "unix": 1600360280
+        }
+      },
+      {
+        "message": "chore(actions): Revert to on Push to allow local testing",
+        "hash": "fe0822435efb91599f461a379230a2c1d11582a6",
+        "created": {
+          "iso": "2020-09-17T18:34:39+02:00",
+          "unix": 1600360479
+        }
+      },
+      {
+        "message": "chore(actions): Tell git who we are",
+        "hash": "ad6762fbdc2e68a9a2d2814f90b8a8bd92d5f74d",
+        "created": {
+          "iso": "2020-09-17T18:37:17+02:00",
+          "unix": 1600360637
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.4",
+    "created": {
+      "iso": "2020-09-25 08:23:34 +0000",
+      "unix": 1601022214
+    },
+    "commits": [
+      {
+        "message": "chore(actions): Add basic GitHub Actions chore(dev): Add watch scripts for frontends and packages",
+        "hash": "891517b33feead3d28a9baf33f8ba96579e4de8d",
+        "created": {
+          "iso": "2020-09-17T11:24:52+02:00",
+          "unix": 1600334692
+        }
+      },
+      {
+        "message": "chore(tests): Remove E2E Tests as they were outdated and not needed currently chore(actions): Add lerna build step to PR",
+        "hash": "bb7a214dfd9dcfea9787bd4b1b6e4a2d06aa63af",
+        "created": {
+          "iso": "2020-09-17T12:28:59+02:00",
+          "unix": 1600338539
+        }
+      },
+      {
+        "message": "chore(actions): Switch to Gemfury Deploy Token Secret",
+        "hash": "a27b6583eb8d41b482045f7f9b8ff8ce9e28919f",
+        "created": {
+          "iso": "2020-09-17T12:34:47+02:00",
+          "unix": 1600338887
+        }
+      },
+      {
+        "message": "chore(actions): Use lerna via npx",
+        "hash": "d009f7a16e2ff1f89bcf12920e0fa6ee35414e7f",
+        "created": {
+          "iso": "2020-09-17T12:38:10+02:00",
+          "unix": 1600339090
+        }
+      },
+      {
+        "message": "chore(build): Do not break on warning if CI = true chore(build): Add FAIL_ON_WARNING Environment Variable to define if we should break the build if there are warnings",
+        "hash": "e6ce23454de103d5aa18e30572d422004010d3cd",
+        "created": {
+          "iso": "2020-09-17T12:46:23+02:00",
+          "unix": 1600339583
+        }
+      },
+      {
+        "message": "chore(actions): Pin ESLint to v7",
+        "hash": "83f95622aa7c2e41abc5dca3a4dcc00e6f69bbc4",
+        "created": {
+          "iso": "2020-09-17T13:12:43+02:00",
+          "unix": 1600341163
+        }
+      },
+      {
+        "message": "chore: Removed accidentally committed files",
+        "hash": "90b19416124679905eec9f039ee81a89d56315b7",
+        "created": {
+          "iso": "2020-09-17T13:37:42+02:00",
+          "unix": 1600342662
+        }
+      },
+      {
+        "message": "Merge branch 'master' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "105bf8631990447951fad5ebb4ebfad484364a33",
+        "created": {
+          "iso": "2020-09-17T15:03:44+02:00",
+          "unix": 1600347824
+        }
+      },
+      {
+        "message": "chore(actions): Fix Typo in Labeler chore(actions): Improve Cache",
+        "hash": "8cd7ab0fd645dc0fbea1b39071663859b91ab4ad",
+        "created": {
+          "iso": "2020-09-17T15:12:54+02:00",
+          "unix": 1600348374
+        }
+      },
+      {
+        "message": "chore(actions): Add more actions",
+        "hash": "ab112f08e809f65699eb4b17a086c5aeeb3d3227",
+        "created": {
+          "iso": "2020-09-17T17:27:42+02:00",
+          "unix": 1600356462
+        }
+      },
+      {
+        "message": "chore(actions): Improve Master Push",
+        "hash": "b2ad290e09d21998ea382d0eae8fa9e17f9cbcb6",
+        "created": {
+          "iso": "2020-09-17T18:10:57+02:00",
+          "unix": 1600359057
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "07920b203461218f97ed7cc3b5f0e10a47aab53b",
+        "created": {
+          "iso": "2020-09-17T18:13:00+02:00",
+          "unix": 1600359180
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "27bc695fa9b2b2eb4aa354bf42a27643353d1cd2",
+        "created": {
+          "iso": "2020-09-17T18:13:55+02:00",
+          "unix": 1600359235
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "e330767be27e0ae13cf0ddd0cc777e60ab6f866e",
+        "created": {
+          "iso": "2020-09-17T18:16:03+02:00",
+          "unix": 1600359363
+        }
+      },
+      {
+        "message": "v1.0.1",
+        "hash": "b0b09869c9c20ea31f95de2f6bcc9aeef00fda0c",
+        "created": {
+          "iso": "2020-09-17T16:17:13+00:00",
+          "unix": 1600359433
+        }
+      },
+      {
+        "message": "chore(actions): More Configs",
+        "hash": "b50843e78e9f28ca76feb8eb333879c3c6f61c07",
+        "created": {
+          "iso": "2020-09-17T18:21:03+02:00",
+          "unix": 1600359663
+        }
+      },
+      {
+        "message": "Merge branch 'master' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "ca5348da486aaafda8017a29c4eb6e57196a454a",
+        "created": {
+          "iso": "2020-09-17T18:21:14+02:00",
+          "unix": 1600359674
+        }
+      },
+      {
+        "message": "Merge branch 'chore/actions' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "958e5529f75a14d269d9a44568714550ca01d497",
+        "created": {
+          "iso": "2020-09-17T18:21:26+02:00",
+          "unix": 1600359686
+        }
+      },
+      {
+        "message": "v1.0.2",
+        "hash": "e6885b149f87ac14aca550f5cda8c3f4e8c33538",
+        "created": {
+          "iso": "2020-09-17T16:22:37+00:00",
+          "unix": 1600359757
+        }
+      },
+      {
+        "message": "chore(actions): Nearly done",
+        "hash": "a3b2119d2beb181f3cb843af4fb5a52166b8b00e",
+        "created": {
+          "iso": "2020-09-17T18:30:58+02:00",
+          "unix": 1600360258
+        }
+      },
+      {
+        "message": "Merge branch 'chore/actions' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into chore/actions",
+        "hash": "2f38eb99154e2fe04034615f4b6a2e352d04b840",
+        "created": {
+          "iso": "2020-09-17T18:31:20+02:00",
+          "unix": 1600360280
+        }
+      },
+      {
+        "message": "chore(actions): Revert to on Push to allow local testing",
+        "hash": "fe0822435efb91599f461a379230a2c1d11582a6",
+        "created": {
+          "iso": "2020-09-17T18:34:39+02:00",
+          "unix": 1600360479
+        }
+      },
+      {
+        "message": "chore(actions): Tell git who we are",
+        "hash": "ad6762fbdc2e68a9a2d2814f90b8a8bd92d5f74d",
+        "created": {
+          "iso": "2020-09-17T18:37:17+02:00",
+          "unix": 1600360637
+        }
+      },
+      {
+        "message": "v1.0.3",
+        "hash": "f701dbe165272180645e8c8db34919f641140bc2",
+        "created": {
+          "iso": "2020-09-17T16:38:15+00:00",
+          "unix": 1600360695
+        }
+      },
+      {
+        "message": "chore(actions): Dry deployment, fix Labeler",
+        "hash": "20d9c29b81bc3049ae06efde55315e1989b7f23b",
+        "created": {
+          "iso": "2020-09-25T10:22:34+02:00",
+          "unix": 1601022154
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.7",
+    "created": {
+      "iso": "2020-10-05 13:09:42 +0000",
+      "unix": 1601903382
+    },
+    "commits": [
+      {
+        "message": "feat(qa): begin Q&A frontend",
+        "hash": "14b69c2e81565a278cdaed3b65eb7fa29be54f3f",
+        "created": {
+          "iso": "2020-09-21T11:44:07+02:00",
+          "unix": 1600681447
+        }
+      },
+      {
+        "message": "fix(master): add new styles for scrollbar",
+        "hash": "71af5cce5dceff552a2d3b57fe5ec7a747c3f73a",
+        "created": {
+          "iso": "2020-09-30T14:13:30+02:00",
+          "unix": 1601468010
+        }
+      },
+      {
+        "message": "fix(components): improve toast types and allow custom className",
+        "hash": "217a9853c1177128eddde16843e0355981048da9",
+        "created": {
+          "iso": "2020-09-30T14:14:44+02:00",
+          "unix": 1601468084
+        }
+      },
+      {
+        "message": "fix(master): fix sidebar textstyles",
+        "hash": "da87e13a8c7ae559edc2ade6a12134cdb319bafc",
+        "created": {
+          "iso": "2020-09-30T14:15:11+02:00",
+          "unix": 1601468111
+        }
+      },
+      {
+        "message": "chore(master): remove debug statements from store",
+        "hash": "37dc191ef4caffff1a62bf73299016a902e6701f",
+        "created": {
+          "iso": "2020-09-30T14:15:28+02:00",
+          "unix": 1601468128
+        }
+      },
+      {
+        "message": "feat(qa): add skeleton for AnswerQuestion screen",
+        "hash": "eb34ddb817a420f0bc639835bbcb749195946c35",
+        "created": {
+          "iso": "2020-09-30T14:16:44+02:00",
+          "unix": 1601468204
+        }
+      },
+      {
+        "message": "feat(um): upgrade user-management to new components and monorepo scheme",
+        "hash": "83caea18e72fc1b7dde4549785303296a32cd820",
+        "created": {
+          "iso": "2020-09-30T14:17:16+02:00",
+          "unix": 1601468236
+        }
+      },
+      {
+        "message": "chore(global): cleanup dependencies",
+        "hash": "4f7e75038d13686c05ca3c7bcff66cffde3f2b6d",
+        "created": {
+          "iso": "2020-09-30T14:17:40+02:00",
+          "unix": 1601468260
+        }
+      },
+      {
+        "message": "feat(global): small improvements",
+        "hash": "33afa29cdd6aab069a103bed234ce390f315ada0",
+        "created": {
+          "iso": "2020-09-30T14:20:22+02:00",
+          "unix": 1601468422
+        }
+      },
+      {
+        "message": "fix(qa): add api client TypeScript reference",
+        "hash": "3739418f90fef587bb033fbde9b4433b6e8c7ec8",
+        "created": {
+          "iso": "2020-09-30T16:03:53+02:00",
+          "unix": 1601474633
+        }
+      },
+      {
+        "message": "chore(global): fix internal dependencies and TypeScript build configuration",
+        "hash": "b15ba8134fc8d32d516e11c1f15aec0eb3cd8581",
+        "created": {
+          "iso": "2020-10-01T12:50:36+02:00",
+          "unix": 1601549436
+        }
+      },
+      {
+        "message": "build(nginx): deletion-requests tests",
+        "hash": "9e8a85949e03eec43686b9833331a8805bf01c72",
+        "created": {
+          "iso": "2020-10-01T14:57:54+02:00",
+          "unix": 1601557074
+        }
+      },
+      {
+        "message": "build(nginx): master tests",
+        "hash": "7477ff7c354d05cd77b3cc2db65be19ae4f10112",
+        "created": {
+          "iso": "2020-10-01T15:53:28+02:00",
+          "unix": 1601560408
+        }
+      },
+      {
+        "message": "build(nginx): user-management tests",
+        "hash": "4d4fd81482f55798d0be51f9f992129586e55aec",
+        "created": {
+          "iso": "2020-10-01T15:53:49+02:00",
+          "unix": 1601560429
+        }
+      },
+      {
+        "message": "build(ci): run testing in matrix",
+        "hash": "bca2f3fbbdc2e14d99777ac94a0aae995d079ae3",
+        "created": {
+          "iso": "2020-10-01T15:57:19+02:00",
+          "unix": 1601560639
+        }
+      },
+      {
+        "message": "ci: building deployment",
+        "hash": "501216e3cb27fd14b469dbe94385a8e3116e2062",
+        "created": {
+          "iso": "2020-10-05T12:50:37+02:00",
+          "unix": 1601895037
+        }
+      },
+      {
+        "message": "Feat/overview (#20)",
+        "hash": "ad31e38e799c406f8de50d91a5ca7dc95a003a13",
+        "created": {
+          "iso": "2020-10-05T13:25:04+02:00",
+          "unix": 1601897104
+        }
+      },
+      {
+        "message": "v1.0.5",
+        "hash": "4b1c4b70a38e582f02ddad9f0e5bd4cdb7586436",
+        "created": {
+          "iso": "2020-10-05T12:11:48+00:00",
+          "unix": 1601899908
+        }
+      },
+      {
+        "message": "v1.0.5",
+        "hash": "ac7de539eeb0de88482d56fea6f96b75a55a5efd",
+        "created": {
+          "iso": "2020-10-05T12:46:03+00:00",
+          "unix": 1601901963
+        }
+      },
+      {
+        "message": "Merge branch 'master' into build/ecs_deployment",
+        "hash": "283a7640ad1c7daa30415ee3ecad5ed6a7d275f6",
+        "created": {
+          "iso": "2020-10-05T14:47:17+02:00",
+          "unix": 1601902037
+        }
+      },
+      {
+        "message": "v1.0.6",
+        "hash": "c3460715676292b120c37a0f51b2fc67bbeb5c3a",
+        "created": {
+          "iso": "2020-10-05T12:47:58+00:00",
+          "unix": 1601902078
+        }
+      },
+      {
+        "message": "ci: ECS deployment",
+        "hash": "ce20cd50941a23eb30fb47def7ba5c040a88dd1a",
+        "created": {
+          "iso": "2020-10-05T14:50:47+02:00",
+          "unix": 1601902247
+        }
+      },
+      {
+        "message": "Merge remote-tracking branch 'origin/build/ecs_deployment' into build/ecs_deployment",
+        "hash": "2bde5bf449b58053f88b461cf455e3002f38d668",
+        "created": {
+          "iso": "2020-10-05T14:51:42+02:00",
+          "unix": 1601902302
+        }
+      },
+      {
+        "message": "Merge pull request #24 from RedaktionsNetzwerk-Deutschland/build/ecs_deployment",
+        "hash": "8787015216602c68eaee41d02e25c26aac086580",
+        "created": {
+          "iso": "2020-10-05T14:59:01+02:00",
+          "unix": 1601902741
+        }
+      },
+      {
+        "message": "ci: stupid mistakes :(",
+        "hash": "7d1acc1e1f83424ed42259519f5bac719821af25",
+        "created": {
+          "iso": "2020-10-05T15:01:31+02:00",
+          "unix": 1601902891
+        }
+      },
+      {
+        "message": "Merge pull request #26 from RedaktionsNetzwerk-Deutschland/build/ecs_deployment",
+        "hash": "860a7d0da01d3b8e65fb1f3454ded9411d85d48f",
+        "created": {
+          "iso": "2020-10-05T15:08:45+02:00",
+          "unix": 1601903325
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.8",
+    "created": {
+      "iso": "2020-10-05 13:38:24 +0000",
+      "unix": 1601905104
+    },
+    "commits": [
+      {
+        "message": "fix: downgrade MobX version to be compatible again (#27)",
+        "hash": "ab08ebb522aa1bfe45e2a3c8ba30078412119170",
+        "created": {
+          "iso": "2020-10-05T15:37:39+02:00",
+          "unix": 1601905059
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.9",
+    "created": {
+      "iso": "2020-10-05 13:54:00 +0000",
+      "unix": 1601906040
+    },
+    "commits": [
+      {
+        "message": "refactor: fixing some eslint-warnings (#25)",
+        "hash": "29466d4943087c86080029acf0975502ef803a85",
+        "created": {
+          "iso": "2020-10-05T15:53:08+02:00",
+          "unix": 1601905988
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.11",
+    "created": {
+      "iso": "2020-10-08 16:20:32 +0000",
+      "unix": 1602174032
+    },
+    "commits": [
+      {
+        "message": "refactor: use different http code for health check",
+        "hash": "79721252f95421305e71b1d718ce59484b2fd22b",
+        "created": {
+          "iso": "2020-10-08T12:38:40+02:00",
+          "unix": 1602153520
+        }
+      },
+      {
+        "message": "refactor: use different http code for health check",
+        "hash": "02dd968536e82a80cd46c331435ce69e4ea3b51d",
+        "created": {
+          "iso": "2020-10-08T12:44:27+02:00",
+          "unix": 1602153867
+        }
+      },
+      {
+        "message": "Merge pull request #29 from RedaktionsNetzwerk-Deutschland/change-http-code-for-healthcheck",
+        "hash": "4d5e1e954b8bce69196f1c235ecd97b77ac0f891",
+        "created": {
+          "iso": "2020-10-08T13:12:04+02:00",
+          "unix": 1602155524
+        }
+      },
+      {
+        "message": "v1.0.10",
+        "hash": "19e65b57f44323a58f4eede2f6796bfa98b68d22",
+        "created": {
+          "iso": "2020-10-08T11:15:36+00:00",
+          "unix": 1602155736
+        }
+      },
+      {
+        "message": "build(ci): splitting workflows",
+        "hash": "e6219aee180b99ffcfc764f73954328ca81fd583",
+        "created": {
+          "iso": "2020-10-08T17:19:47+02:00",
+          "unix": 1602170387
+        }
+      },
+      {
+        "message": "Merge pull request #31 from RedaktionsNetzwerk-Deutschland/build/cleaning_workflows",
+        "hash": "c107c43da818e4a7d2ecd27175316e3f48412957",
+        "created": {
+          "iso": "2020-10-08T18:19:52+02:00",
+          "unix": 1602173992
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.12",
+    "created": {
+      "iso": "2020-10-09 09:55:30 +0000",
+      "unix": 1602237330
+    },
+    "commits": [
+      {
+        "message": "build(ci): fixing deprecation warning",
+        "hash": "2f0fa4b9c50af73a9a9ebd0f1007cbe9067fd396",
+        "created": {
+          "iso": "2020-10-09T11:00:47+02:00",
+          "unix": 1602234047
+        }
+      },
+      {
+        "message": "Merge pull request #34 from RedaktionsNetzwerk-Deutschland/build/deprecated_set_env",
+        "hash": "f2f6caa6c32dbc3c8b71a395bc3cb75ab0a873de",
+        "created": {
+          "iso": "2020-10-09T11:54:50+02:00",
+          "unix": 1602237290
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.13",
+    "created": {
+      "iso": "2020-10-09 11:07:21 +0000",
+      "unix": 1602241641
+    },
+    "commits": [
+      {
+        "message": "build(ci): better time controlled ECS wait",
+        "hash": "0afc47b4f842facd8c0fcaa651da9ef39040179d",
+        "created": {
+          "iso": "2020-10-09T13:02:05+02:00",
+          "unix": 1602241325
+        }
+      },
+      {
+        "message": "Merge pull request #36 from RedaktionsNetzwerk-Deutschland/build/deprecated_set_env",
+        "hash": "aadbf113f09e979f5669624583715f8b63523f84",
+        "created": {
+          "iso": "2020-10-09T13:02:48+02:00",
+          "unix": 1602241368
+        }
+      },
+      {
+        "message": "build(ci): YAML typo",
+        "hash": "19324543e77bf552576b5b446019eacf69b7daaa",
+        "created": {
+          "iso": "2020-10-09T13:05:43+02:00",
+          "unix": 1602241543
+        }
+      },
+      {
+        "message": "Merge pull request #37 from RedaktionsNetzwerk-Deutschland/build/deprecated_set_env",
+        "hash": "d127ab18ee2505936529338aef2434f578d3f246",
+        "created": {
+          "iso": "2020-10-09T13:06:18+02:00",
+          "unix": 1602241578
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.14",
+    "created": {
+      "iso": "2020-10-19 11:32:16 +0000",
+      "unix": 1603107136
+    },
+    "commits": [
+      {
+        "message": "build(ci): using new ENVs (#40)",
+        "hash": "cfeb31e306c306d60a659828680680e2d28e17c6",
+        "created": {
+          "iso": "2020-10-19T13:31:28+02:00",
+          "unix": 1603107088
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.0.15",
+    "created": {
+      "iso": "2020-10-21 11:08:12 +0000",
+      "unix": 1603278492
+    },
+    "commits": [
+      {
+        "message": "test(components): add tests to the component library",
+        "hash": "23801dc05aa4548d53d881213b7fa2275b066e84",
+        "created": {
+          "iso": "2020-10-21T13:07:24+02:00",
+          "unix": 1603278444
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.0",
+    "created": {
+      "iso": "2020-10-26 16:56:52 +0000",
+      "unix": 1603731412
+    },
+    "commits": [
+      {
+        "message": "feat: Add support for user verifications",
+        "hash": "36f06e1a6dd2dbffda226ecbab88fe22017406fd",
+        "created": {
+          "iso": "2020-10-26T17:55:58+01:00",
+          "unix": 1603731358
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.1",
+    "created": {
+      "iso": "2020-10-27 10:07:14 +0000",
+      "unix": 1603793234
+    },
+    "commits": [
+      {
+        "message": "chore(actions): Add ESLint ReviewDog and StyleLint",
+        "hash": "d9ab43940c5134af7d9ba635053a72b799d2e9cc",
+        "created": {
+          "iso": "2020-10-26T10:38:14+01:00",
+          "unix": 1603705094
+        }
+      },
+      {
+        "message": "fix(components): adjust height for inputs",
+        "hash": "b38951575dff5531611fdda8933dbef295a0ef48",
+        "created": {
+          "iso": "2020-10-26T10:39:38+01:00",
+          "unix": 1603705178
+        }
+      },
+      {
+        "message": "chop(components): add esc to close modal in storybook",
+        "hash": "5f43722082f7a44dd3c15ef839655846bd9b9c2a",
+        "created": {
+          "iso": "2020-10-26T10:40:18+01:00",
+          "unix": 1603705218
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.2",
+    "created": {
+      "iso": "2020-10-28 10:37:25 +0000",
+      "unix": 1603881445
+    },
+    "commits": [
+      {
+        "message": "Feat/filterbox (#47)",
+        "hash": "fb96d6ecf98e27d877a7498ed0e0102d830c0f69",
+        "created": {
+          "iso": "2020-10-28T11:36:40+01:00",
+          "unix": 1603881400
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.3",
+    "created": {
+      "iso": "2020-11-02 08:34:30 +0000",
+      "unix": 1604306070
+    },
+    "commits": [
+      {
+        "message": "fix: enable routing from frontend to master or from frontend to frontend",
+        "hash": "26e3c0b2324f84fe5d33e6cb263b05468aaa64d4",
+        "created": {
+          "iso": "2020-11-02T09:33:45+01:00",
+          "unix": 1604306025
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.4",
+    "created": {
+      "iso": "2020-11-03 12:58:13 +0000",
+      "unix": 1604408293
+    },
+    "commits": [
+      {
+        "message": "fix: remove resources from micro frontend on unmount to prevent style overide",
+        "hash": "7f08b01130ab5d3724719282f4df5857b12a8dcf",
+        "created": {
+          "iso": "2020-11-03T13:57:31+01:00",
+          "unix": 1604408251
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.5",
+    "created": {
+      "iso": "2020-11-06 09:12:44 +0000",
+      "unix": 1604653964
+    },
+    "commits": [
+      {
+        "message": "ci: add bot token to GitHub Checkout Action and lerna command",
+        "hash": "974f58956e4b38c28fc334b233226c7ce7a9dfcf",
+        "created": {
+          "iso": "2020-11-06T10:09:25+01:00",
+          "unix": 1604653765
+        }
+      },
+      {
+        "message": "ci: remove the real deploy steps to test the changes",
+        "hash": "f85401204e47673e4ed87a935af69a58844e8089",
+        "created": {
+          "iso": "2020-11-06T10:11:44+01:00",
+          "unix": 1604653904
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.6",
+    "created": {
+      "iso": "2020-11-06 15:05:08 +0000",
+      "unix": 1604675108
+    },
+    "commits": [
+      {
+        "message": "trigger build",
+        "hash": "99b9f2a29597e8d42a79282ebc9de1d686039624",
+        "created": {
+          "iso": "2020-11-06T16:04:08+01:00",
+          "unix": 1604675048
+        }
+      },
+      {
+        "message": "Merge branch 'ci/bot' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into ci/bot",
+        "hash": "9eb4633363f4a86f11f95919dee5f5e879590709",
+        "created": {
+          "iso": "2020-11-06T16:04:16+01:00",
+          "unix": 1604675056
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.8",
+    "created": {
+      "iso": "2020-11-09 15:04:01 +0000",
+      "unix": 1604934241
+    },
+    "commits": [
+      {
+        "message": "ci: add bot token to GitHub Checkout Action and lerna command",
+        "hash": "974f58956e4b38c28fc334b233226c7ce7a9dfcf",
+        "created": {
+          "iso": "2020-11-06T10:09:25+01:00",
+          "unix": 1604653765
+        }
+      },
+      {
+        "message": "ci: remove the real deploy steps to test the changes",
+        "hash": "f85401204e47673e4ed87a935af69a58844e8089",
+        "created": {
+          "iso": "2020-11-06T10:11:44+01:00",
+          "unix": 1604653904
+        }
+      },
+      {
+        "message": "v1.1.5",
+        "hash": "cc4db6d38c4feb3f17cd34af2a9bf7e4d0e77b2e",
+        "created": {
+          "iso": "2020-11-06T09:12:44+00:00",
+          "unix": 1604653964
+        }
+      },
+      {
+        "message": "trigger build",
+        "hash": "99b9f2a29597e8d42a79282ebc9de1d686039624",
+        "created": {
+          "iso": "2020-11-06T16:04:08+01:00",
+          "unix": 1604675048
+        }
+      },
+      {
+        "message": "Merge branch 'ci/bot' of github.com:RedaktionsNetzwerk-Deutschland/cop-admin-interface into ci/bot",
+        "hash": "9eb4633363f4a86f11f95919dee5f5e879590709",
+        "created": {
+          "iso": "2020-11-06T16:04:16+01:00",
+          "unix": 1604675056
+        }
+      },
+      {
+        "message": "v1.1.6",
+        "hash": "4c49258f3b53db1b560d5af3338d5e2ea040dde4",
+        "created": {
+          "iso": "2020-11-06T15:05:08+00:00",
+          "unix": 1604675108
+        }
+      },
+      {
+        "message": "ci: add bot token to GitHub Checkout Action and lerna command",
+        "hash": "fbc648b85125b7596c77cdb8ec6a02cf04772883",
+        "created": {
+          "iso": "2020-11-09T13:06:46+01:00",
+          "unix": 1604923606
+        }
+      },
+      {
+        "message": "v1.1.5",
+        "hash": "b3e9007e58e0bfce344f081d590661b40d0b9328",
+        "created": {
+          "iso": "2020-11-09T12:23:23+00:00",
+          "unix": 1604924603
+        }
+      },
+      {
+        "message": "v1.1.6",
+        "hash": "4211b9248e61b3b0ffb97b25abeff337304e41f0",
+        "created": {
+          "iso": "2020-11-09T12:24:10+00:00",
+          "unix": 1604924650
+        }
+      },
+      {
+        "message": "fix: improve header dropdown menu",
+        "hash": "311363b8183c5bad666646d11616feaa02855fea",
+        "created": {
+          "iso": "2020-11-09T13:58:55+01:00",
+          "unix": 1604926735
+        }
+      },
+      {
+        "message": "hotfix: remove git configuration step",
+        "hash": "04a4d49cb8f9a4a226ccf39fb7a633600d6e252c",
+        "created": {
+          "iso": "2020-11-09T14:08:30+01:00",
+          "unix": 1604927310
+        }
+      },
+      {
+        "message": "fix: re-initialize themeLoader after login",
+        "hash": "b91caccf5a04b3d1571345850646bc7938c4ecec",
+        "created": {
+          "iso": "2020-11-09T15:48:52+01:00",
+          "unix": 1604933332
+        }
+      },
+      {
+        "message": "v1.1.7",
+        "hash": "0d187386f1b3d74bae28e696293d1d64262839a9",
+        "created": {
+          "iso": "2020-11-09T15:03:06+00:00",
+          "unix": 1604934186
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.9",
+    "created": {
+      "iso": "2020-11-10 06:51:54 +0000",
+      "unix": 1604991114
+    },
+    "commits": [
+      {
+        "message": "build(nginx): accept any folder and deliver index.html (#65)",
+        "hash": "9274a8aa88a9a268fe7dd6f0af8926314ce9716c",
+        "created": {
+          "iso": "2020-11-10T07:51:17+01:00",
+          "unix": 1604991077
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.10",
+    "created": {
+      "iso": "2020-11-16 09:46:32 +0000",
+      "unix": 1605519992
+    },
+    "commits": [
+      {
+        "message": "fix: create a separate state so the email does not update",
+        "hash": "c45362c7e6c007c61df2d256ee53ae409c4c3365",
+        "created": {
+          "iso": "2020-11-09T16:11:58+01:00",
+          "unix": 1604934718
+        }
+      },
+      {
+        "message": "fix: create a separate state so the email does not update",
+        "hash": "8a2ddbdba59a9563d4a689176b320326669a2f41",
+        "created": {
+          "iso": "2020-11-16T10:45:54+01:00",
+          "unix": 1605519954
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.11",
+    "created": {
+      "iso": "2020-11-16 12:03:09 +0000",
+      "unix": 1605528189
+    },
+    "commits": [
+      {
+        "message": "refactor: clean up styles, remove not needed files",
+        "hash": "bc29581227f9ec0815727d513d812e567d5fc798",
+        "created": {
+          "iso": "2020-11-16T13:02:33+01:00",
+          "unix": 1605528153
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.1.12",
+    "created": {
+      "iso": "2020-11-23 12:45:31 +0000",
+      "unix": 1606135531
+    },
+    "commits": [
+      {
+        "message": "Build/cdk migration (#71)",
+        "hash": "182424ab20728f843f267779dbc5649e6184f64b",
+        "created": {
+          "iso": "2020-11-23T13:44:43+01:00",
+          "unix": 1606135483
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.2.0",
+    "created": {
+      "iso": "2020-11-24 12:39:09 +0000",
+      "unix": 1606221549
+    },
+    "commits": [
+      {
+        "message": "feat(devtools): add devtools frontend",
+        "hash": "48d8ea19dae5d5df6e489012ff24e51ddab7c594",
+        "created": {
+          "iso": "2020-11-24T13:38:03+01:00",
+          "unix": 1606221483
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.2.1",
+    "created": {
+      "iso": "2020-11-24 13:21:20 +0000",
+      "unix": 1606224080
+    },
+    "commits": [
+      {
+        "message": "fix: styles",
+        "hash": "12242dbfccfc167fb1e316347cb36a410db3c93e",
+        "created": {
+          "iso": "2020-11-24T14:20:39+01:00",
+          "unix": 1606224039
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.2.3",
+    "created": {
+      "iso": "2020-11-26 08:38:42 +0000",
+      "unix": 1606379922
+    },
+    "commits": [
+      {
+        "message": "Build/devtools on ecs (#73)",
+        "hash": "a9dca565266336fda6e32fd89c074412f27f30a5",
+        "created": {
+          "iso": "2020-11-26T09:38:02+01:00",
+          "unix": 1606379882
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.2.4",
+    "created": {
+      "iso": "2020-11-30 13:51:09 +0000",
+      "unix": 1606744269
+    },
+    "commits": [
+      {
+        "message": "Feat/add dashed box (#69)",
+        "hash": "cc0131da05391ffa562a2d5791e3d5709abd4e0f",
+        "created": {
+          "iso": "2020-11-30T14:50:27+01:00",
+          "unix": 1606744227
+        }
+      }
+    ]
+  },
+  {
+    "name": "v1.3.0",
+    "created": {
+      "iso": "2020-11-30 16:58:08 +0000",
+      "unix": 1606755488
+    },
+    "commits": [
+      {
+        "message": "feat(um): permission feature",
+        "hash": "1ff1cdab9702dcfbb0f16c3e3d682ef68cf69ef7",
+        "created": {
+          "iso": "2020-11-30T17:57:20+01:00",
+          "unix": 1606755440
+        }
+      }
+    ]
+  }
+]
