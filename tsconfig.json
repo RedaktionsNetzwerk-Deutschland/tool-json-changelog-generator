@@ -8,8 +8,7 @@
       "dom",
       "esnext"
     ],
-    "jsx": "react",
-    "rootDir": ".",
+    "rootDir": "src",
     "downlevelIteration": true,
     "strict": true,
     "removeComments": false,
@@ -22,10 +21,7 @@
     "esModuleInterop": false,
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
-    "composite": true,
-    "declaration": true,
-    "declarationMap": false,
-    "sourceMap": true
+    "outDir": "dist",
   },
   "exclude": [
     "node_modules",
