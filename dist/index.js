@@ -15,6 +15,7 @@ const simple_git_1 = require("simple-git");
 const git = simple_git_1.default({
     baseDir: process.env.GITHUB_WORKSPACE,
 });
+core.debug(`Reading from ${process.env.GITHUB_WORKSPACE}`);
 /**
  * Returns all Tags sorted by Creation Date
  */

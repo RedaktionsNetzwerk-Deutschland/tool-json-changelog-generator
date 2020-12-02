@@ -6,6 +6,8 @@ const git = simpleGit({
   baseDir: process.env.GITHUB_WORKSPACE,
 });
 
+core.debug(`Reading from ${process.env.GITHUB_WORKSPACE}`);
+
 type UnixIsoDate = {
   iso: string;
   unix: number;
