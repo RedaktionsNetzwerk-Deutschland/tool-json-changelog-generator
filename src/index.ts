@@ -87,7 +87,9 @@ async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
 }
 
 (async function f() {
-  await git.pull();
+  core.info('Pulling full git history');
+  await git.raw('pull', '--tags');
+  core.info('History pulled');
   const changelog: Tag[] = [];
   const tags = await getTags();
   core.info(`Found ${tags.length} Tags.`);
