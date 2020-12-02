@@ -12,9 +12,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /* eslint-disable @typescript-eslint/ban-ts-comment, no-restricted-syntax, no-await-in-loop */
 const core = require("@actions/core");
 const simple_git_1 = require("simple-git");
-const git = simple_git_1.default({
-    baseDir: '/Users/tom/PhpstormProjects/cop-admin-interface/',
-});
+const git = simple_git_1.default();
 /**
  * Returns all Tags sorted by Creation Date
  */
