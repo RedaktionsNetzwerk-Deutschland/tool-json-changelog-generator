@@ -2,7 +2,9 @@
 import * as core from '@actions/core';
 import simpleGit from 'simple-git';
 
-const git = simpleGit();
+const git = simpleGit({
+  baseDir: process.env.GITHUB_WORKSPACE,
+});
 
 type UnixIsoDate = {
   iso: string;
