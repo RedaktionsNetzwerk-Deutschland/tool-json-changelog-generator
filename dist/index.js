@@ -87,6 +87,7 @@ function getCommitsBetweenTags(start, end) {
 }
 (function f() {
     return __awaiter(this, void 0, void 0, function* () {
+        yield git.pull();
         const changelog = [];
         const tags = yield getTags();
         core.info(`Found ${tags.length} Tags.`);
