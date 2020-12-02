@@ -86,9 +86,11 @@ function getCommitsBetweenTags(start, end) {
     return __awaiter(this, void 0, void 0, function* () {
         const changelog = [];
         const tags = yield getTags();
+        core.info(`Found ${tags.length} Tags.`);
         for (const tag of tags) {
             const lastTag = tags[tags.indexOf(tag) - 1];
             tag.commits = yield getCommitsBetweenTags(lastTag, tag);
+            core.debug(`Found ${tag.commits.length} Commits for Tag ${tag.name}`);
             changelog.push(tag);
         }
         console.log(changelog);
