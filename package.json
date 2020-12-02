@@ -2,7 +2,7 @@
   "name": "@rnd/changelog-json-action",
   "version": "0.0.1",
   "description": "Creates a JSON Formatted Changelog",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "author": {
     "email": "tom.sacher@rnd.de",
@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "simple-git": "^2.24.0"
+    "dist": "^0.1.2",
+    "simple-git": "^2.24.0",
+    "src": "^1.1.2"
   },
   "devDependencies": {
     "@types/node": "^14.14.10",

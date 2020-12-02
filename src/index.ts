@@ -6,7 +6,7 @@ const git = simpleGit({
   baseDir: process.env.GITHUB_WORKSPACE,
 });
 
-core.debug(`Reading from ${process.env.GITHUB_WORKSPACE}`);
+core.info(`Reading from ${process.env.GITHUB_WORKSPACE}`);
 
 type UnixIsoDate = {
   iso: string;
@@ -93,7 +93,7 @@ async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
   for (const tag of tags) {
     const lastTag = tags[tags.indexOf(tag) - 1];
     tag.commits = await getCommitsBetweenTags(lastTag, tag);
-    core.debug(`Found ${tag.commits.length} Commits for Tag ${tag.name}`);
+    core.info(`Found ${tag.commits.length} Commits for Tag ${tag.name}`);
     changelog.push(tag);
   }
   console.log(changelog);
