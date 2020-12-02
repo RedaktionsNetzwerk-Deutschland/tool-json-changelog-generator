@@ -9,7 +9,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-/* eslint-disable @typescript-eslint/ban-ts-comment, no-restricted-syntax, no-await-in-loop */
+/* eslint-disable no-restricted-syntax, no-await-in-loop */
 const core = require("@actions/core");
 const simple_git_1 = require("simple-git");
 const git = simple_git_1.default({
@@ -87,7 +87,7 @@ function getCommitsBetweenTags(start, end) {
 }
 (function f() {
     return __awaiter(this, void 0, void 0, function* () {
-        core.info('Pulling full git history');
+        core.info('Pulling git history');
         yield git.raw('pull', '--tags');
         core.info('History pulled');
         const changelog = [];
@@ -96,10 +96,8 @@ function getCommitsBetweenTags(start, end) {
         for (const tag of tags) {
             const lastTag = tags[tags.indexOf(tag) - 1];
             tag.commits = yield getCommitsBetweenTags(lastTag, tag);
-            core.info(`Found ${tag.commits.length} Commits for Tag ${tag.name}`);
             changelog.push(tag);
         }
-        console.log(changelog);
         core.setOutput('jsonchangelog', JSON.stringify(changelog));
     });
 })();

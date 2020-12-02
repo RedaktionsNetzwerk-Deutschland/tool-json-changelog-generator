@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/ban-ts-comment, no-restricted-syntax, no-await-in-loop */
+/* eslint-disable no-restricted-syntax, no-await-in-loop */
 import * as core from '@actions/core';
 import simpleGit from 'simple-git';
 
@@ -87,7 +87,7 @@ async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
 }
 
 (async function f() {
-  core.info('Pulling full git history');
+  core.info('Pulling git history');
   await git.raw('pull', '--tags');
   core.info('History pulled');
   const changelog: Tag[] = [];
@@ -96,9 +96,7 @@ async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
   for (const tag of tags) {
     const lastTag = tags[tags.indexOf(tag) - 1];
     tag.commits = await getCommitsBetweenTags(lastTag, tag);
-    core.info(`Found ${tag.commits.length} Commits for Tag ${tag.name}`);
     changelog.push(tag);
   }
-  console.log(changelog);
   core.setOutput('jsonchangelog', JSON.stringify(changelog));
 })();
