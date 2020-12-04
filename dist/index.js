@@ -39,8 +39,8 @@ if (!env.CHANGELOG_SERVICE_URL || !env.CHANGELOG_SYSTEM_ID || !env.GITHUB_WORKSP
         }
         const response = {
             changelog,
-            version: ((_a = tags.pop()) === null || _a === void 0 ? void 0 : _a.name) || 'unknown',
-            title: ((_c = (_b = tags.pop()) === null || _b === void 0 ? void 0 : _b.commits.pop()) === null || _c === void 0 ? void 0 : _c.message) || 'unknown',
+            version: ((_a = tags.pop()) === null || _a === void 0 ? void 0 : _a.name) || '',
+            title: ((_c = (_b = tags.pop()) === null || _b === void 0 ? void 0 : _b.commits.pop()) === null || _c === void 0 ? void 0 : _c.message) || '',
         };
         try {
             yield axios_1.default({

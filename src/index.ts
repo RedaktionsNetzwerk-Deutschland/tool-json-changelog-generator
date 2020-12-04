@@ -30,8 +30,8 @@ if (!env.CHANGELOG_SERVICE_URL || !env.CHANGELOG_SYSTEM_ID || !env.GITHUB_WORKSP
   }
   const response: ChangelogServicePayload = {
     changelog,
-    version: tags.pop()?.name || 'unknown',
-    title: tags.pop()?.commits.pop()?.message || 'unknown',
+    version: tags.pop()?.name || '',
+    title: tags.pop()?.commits.pop()?.message || '',
   };
   try {
     await axios({
