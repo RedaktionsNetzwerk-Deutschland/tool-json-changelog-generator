@@ -1,89 +1,19 @@
 /* eslint-disable no-restricted-syntax, no-await-in-loop */
 import * as core from '@actions/core';
-import simpleGit from 'simple-git';
+import axios from 'axios';
+import getCommitsBetweenTags from './CommitsBetweenTags';
+import getTags from './GetTags';
+import git from './Git';
+import { ChangelogServicePayload, Tag } from './types';
 
-const git = simpleGit({
-  baseDir: process.env.GITHUB_WORKSPACE,
-});
+const { env } = process;
 
-core.info(`Reading from ${process.env.GITHUB_WORKSPACE}`);
-
-type UnixIsoDate = {
-  iso: string;
-  unix: number;
-};
-
-type Commit = {
-  hash: string;
-  message: string;
-  created: UnixIsoDate;
-};
-
-type Tag = {
-  name: string;
-  created: UnixIsoDate;
-  commits: Commit[];
-};
-
-/**
- * Returns all Tags sorted by Creation Date
- */
-async function getTags(): Promise<Tag[]> {
-  const response: Tag[] = [];
-  const tagTask = git.tags({
-    '--format': '%(creatordate:iso) ? %(creatordate:unix) ? %(refname:short)',
-  });
-  const tags = await tagTask;
-  tags.all.forEach((tag) => {
-    const [tagCreatorDateIso, tagCreatorDateUnix, tagRefname] = tag.split(' ? ');
-    response.push({
-      name: tagRefname,
-      created: {
-        iso: tagCreatorDateIso,
-        unix: Number.parseInt(tagCreatorDateUnix, 10),
-      },
-      commits: [],
-    });
-  });
-  response.sort((a, b) => {
-    if (a.created.unix < b.created.unix) return -1;
-    if (a.created.unix > b.created.unix) return 1;
-    return 0;
-  });
-  return response;
-}
-
-async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
-  const response: Commit[] = [];
-  let commitTask;
-  if (!start) {
-    commitTask = git.log({
-      to: end.name,
-    });
-  } else {
-    commitTask = git.log({
-      from: start.name,
-      to: end.name,
-    });
-  }
-  const commits = await commitTask;
-  commits.all.forEach((commit) => {
-    if (commit.message.startsWith('chore(release)') || commit.message === end.name) return;
-    response.push({
-      message: commit.message,
-      hash: commit.hash,
-      created: {
-        iso: commit.date,
-        unix: new Date(commit.date).getTime() / 1000,
-      },
-    });
-  });
-  response.sort((a, b) => {
-    if (a.created.unix < b.created.unix) return -1;
-    if (a.created.unix > b.created.unix) return 1;
-    return 0;
-  });
-  return response;
+if (!env.CHANGELOG_SERVICE_URL || !env.CHANGELOG_SYSTEM_ID || !env.GITHUB_WORKSPACE) {
+  core.error('Missing Environment Variables.');
+  core.error(`CHANGELOG_SERVICE_URL is ${process.env.CHANGELOG_SERVICE_URL}`);
+  core.error(`CHANGELOG_SYSTEM_ID is ${process.env.CHANGELOG_SYSTEM_ID}`);
+  core.error(`GITHUB_WORKSPACE is ${process.env.GITHUB_WORKSPACE}`);
+  process.exit(process.env.BAIL ? 1 : 0);
 }
 
 (async function f() {
@@ -98,5 +28,21 @@ async function getCommitsBetweenTags(start: Tag, end: Tag): Promise<Commit[]> {
     tag.commits = await getCommitsBetweenTags(lastTag, tag);
     changelog.push(tag);
   }
-  core.setOutput('jsonchangelog', JSON.stringify(changelog));
+  const response: ChangelogServicePayload = {
+    changelog,
+    version: tags.pop()?.name || 'unknown',
+    title: tags.pop()?.commits.pop()?.message || 'unknown',
+  };
+  try {
+    await axios({
+      baseURL: env.CHANGELOG_SERVICE_URL,
+      url: `/changelog/systems/${env.CHANGELOG_SYSTEM_ID}`,
+      data: response,
+      method: 'POST',
+    });
+    core.setOutput('jsonchangelog', JSON.stringify(changelog));
+  } catch (e) {
+    core.error(e);
+    process.exit(process.env.BAIL ? 1 : 0);
+  }
 })();
